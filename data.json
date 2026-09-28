@@ -1,0 +1,41 @@
+{
+  "ministers": [
+    {
+      "name": "Ashwini Vaishnaw",
+      "portfolio": "Railways, Information & Broadcasting, Electronics & IT",
+      "tickers": ["OPTIEMUSINF", "DIXON", "KAYNES", "CGPOWER"]
+    },
+    {
+      "name": "Pralhad Joshi",
+      "portfolio": "Consumer Affairs, Food & Public Distribution, New & Renewable Energy",
+      "tickers": ["WAAREE", "PREMIERENE", "SUZLON", "BALRAMCHIN"]
+    },
+    {
+      "name": "Piyush Goyal",
+      "portfolio": "Commerce & Industry",
+      "tickers": ["RELAXO", "CAMPUS", "OKPLAY"]
+    },
+    {
+      "name": "Rajnath Singh",
+      "portfolio": "Defence",
+      "tickers": ["HAL", "BEL", "MAZDOCK", "BDL"]
+    },
+    {
+      "name": "Nitin Gadkari",
+      "portfolio": "Road Transport and Highways",
+      "tickers": ["IRB", "KNRCON", "PNCINFRA"]
+    }
+  ],
+  "signals": [
+    {
+      "date": "28 Sep 2026",
+      "category": "QCO Order",
+      "title": "BIS mandates Compulsory Registration Scheme for Chemically Tempered Glass",
+      "minister": "Ashwini Vaishnaw",
+      "impact": "Import choke on unorganized screen guards; direct capacity moat for domestic manufacturers.",
+      "stage": "STAGE 4",
+      "badge": "badge-stage4",
+      "url": "https://bis.gov.in"
+    }
+  ]
+}
