@@ -21,7 +21,45 @@ REGULATORY_TAGS = {
     "pli": ("PLI Allocation", "STAGE 3", "badge-amber"),
     "almm": ("ALMM Inclusion", "STAGE 4", "badge-stage4"),
     "anti-dumping": ("Tariff Protection", "STAGE 3", "badge-cyan"),
-    "procurement": ("Tender / Procurement", "STAGE 3", "badge-cyan")
+    "tender": ("Procurement Tender", "STAGE 3", "badge-cyan")
+}
+
+# Entity extraction dictionary: text pattern -> Stock Ticker
+COMPANY_TICKER_MAP = {
+    "optiemus": "OPTIEMUSINF",
+    "corning": "OPTIEMUSINF",
+    "dixon": "DIXON",
+    "kaynes": "KAYNES",
+    "cg power": "CGPOWER",
+    "waaree": "WAAREE",
+    "premier energies": "PREMIERENE",
+    "suzlon": "SUZLON",
+    "balrampur": "BALRAMCHIN",
+    "relaxo": "RELAXO",
+    "campus activewear": "CAMPUS",
+    "ok play": "OKPLAY",
+    "hal": "HAL",
+    "hindustan aeronautics": "HAL",
+    "bel": "BEL",
+    "bharat electronics": "BEL",
+    "mazagon": "MAZDOCK",
+    "cochin shipyard": "COCHINSHIP",
+    "larsen": "LT",
+    "l&t": "LT",
+    "irb": "IRB",
+    "titagarh": "TITAGARH",
+    "rvnl": "RVNL",
+    "irctc": "IRCTC",
+    "tata steel": "TATASTEEL",
+    "jsw steel": "JSWSTEEL",
+    "sail": "SAIL",
+    "indigo": "INDIGO",
+    "spicejet": "SPICEJET",
+    "adani ports": "ADANIPORTS",
+    "reliance": "RELIANCE",
+    "ongc": "ONGC",
+    "ioc": "IOC",
+    "bpcl": "BPCL"
 }
 
 new_signals = []
@@ -37,7 +75,7 @@ for minister in db.get("ministers", []):
         with urllib.request.urlopen(req, timeout=12) as resp:
             root = ET.fromstring(resp.read())
             
-            for item in root.findall(".//item")[:3]:
+            for item in root.findall(".//item")[:2]:
                 title = item.find("title").text if item.find("title") is not None else ""
                 clean_title = title.strip()
                 if not clean_title or clean_title.lower() in existing_titles:
@@ -52,25 +90,34 @@ for minister in db.get("ministers", []):
                         matched = val
                         break
                 
-                tickers_str = ", ".join(minister.get("tickers", []))
+                # Dynamic Entity Extraction: detect companies mentioned in the headline
+                detected = set()
+                for keyword, ticker in COMPANY_TICKER_MAP.items():
+                    if keyword in title_lower:
+                        detected.add(ticker)
+                
+                # If no specific company was mentioned, fall back to the top sector ticker
+                if not detected:
+                    detected = set(minister.get("tickers", [])[:1])
+                
                 new_signals.append({
                     "date": datetime.now().strftime("%d %b %Y"),
                     "category": matched[0],
                     "title": clean_title,
                     "minister": name,
-                    "impact": f"Automated scrape. Assess sensitivity across: {tickers_str}",
+                    "impact": f"Dynamic alert. Sensitive equity: {', '.join(detected)}",
                     "stage": matched[1],
                     "badge": matched[2],
+                    "dynamic_tickers": list(detected),
                     "url": link
                 })
                 existing_titles.add(clean_title.lower())
     except Exception as e:
-        print(f"Skipping query for {name}: {e}")
+        print(f"Skipping {name}: {e}")
 
-# Prepend new signals and cap database at latest 100 entries
 db["signals"] = (new_signals + db.get("signals", []))[:100]
 
 with open(DATA_FILE, "w", encoding="utf-8") as f:
     json.dump(db, f, indent=2, ensure_ascii=False)
 
-print(f"Scrape completed: Added {len(new_signals)} new signal(s).")
+print(f"Scrape completed: Added {len(new_signals)} new dynamic signal(s).")
