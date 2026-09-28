@@ -1,205 +1,79 @@
 {
   "ministers": [
-    {
-      "name": "Ashwini Vaishnaw",
-      "portfolio": "Railways, Information & Broadcasting, Electronics & IT",
-      "tickers": [
-        "OPTIEMUSINF",
-        "DIXON",
-        "KAYNES",
-        "CGPOWER"
-      ]
-    },
-    {
-      "name": "Pralhad Joshi",
-      "portfolio": "Consumer Affairs, Food & Public Distribution, New & Renewable Energy",
-      "tickers": [
-        "WAAREE",
-        "PREMIERENE",
-        "SUZLON",
-        "BALRAMCHIN"
-      ]
-    },
-    {
-      "name": "Piyush Goyal",
-      "portfolio": "Commerce & Industry",
-      "tickers": [
-        "RELAXO",
-        "CAMPUS",
-        "OKPLAY"
-      ]
-    },
-    {
-      "name": "Rajnath Singh",
-      "portfolio": "Defence",
-      "tickers": [
-        "HAL",
-        "BEL",
-        "MAZDOCK",
-        "BDL"
-      ]
-    },
-    {
-      "name": "Nitin Gadkari",
-      "portfolio": "Road Transport and Highways",
-      "tickers": [
-        "IRB",
-        "KNRCON",
-        "PNCINFRA"
-      ]
-    }
+    { "name": "Narendra Modi", "portfolio": "Atomic Energy, Space, Cabinet Committee on Security (CCS)", "tickers": ["HAL", "BEL", "LT"] },
+    { "name": "Rajnath Singh", "portfolio": "Ministry of Defence", "tickers": ["HAL", "BEL", "MAZDOCK", "BDL", "COCHINSHIP", "SOLARINDS"] },
+    { "name": "Amit Shah", "portfolio": "Ministry of Home Affairs, Ministry of Cooperation", "tickers": ["KRIBHCO", "IFFCO", "UPL", "COROMANDEL"] },
+    { "name": "Nitin Gadkari", "portfolio": "Ministry of Road Transport and Highways", "tickers": ["IRB", "KNRCON", "PNCINFRA", "GRINFRA", "LT"] },
+    { "name": "J.P. Nadda", "portfolio": "Ministry of Health & Family Welfare, Chemicals & Fertilizers", "tickers": ["SUNPHARMA", "CIPLA", "DEEPAKNTR", "TATACHEM", "CHAMBLFERT"] },
+    { "name": "Shivraj Singh Chouhan", "portfolio": "Ministry of Agriculture & Farmers Welfare, Rural Development", "tickers": ["KAVERI", "DHANUKA", "ESCORTS", "MAHSCOOTER"] },
+    { "name": "Nirmala Sitharaman", "portfolio": "Ministry of Finance, Corporate Affairs", "tickers": ["SBIN", "HDFCBANK", "LICHSGFIN", "BSE", "MCX"] },
+    { "name": "Dr. S. Jaishankar", "portfolio": "Ministry of External Affairs", "tickers": ["LT", "IRCON", "RITES"] },
+    { "name": "Manohar Lal Khattar", "portfolio": "Ministry of Housing and Urban Affairs, Power", "tickers": ["NTPC", "POWERGRID", "NBCC", "DLF", "GODREJPROP"] },
+    { "name": "H.D. Kumaraswamy", "portfolio": "Ministry of Heavy Industries, Steel", "tickers": ["TATASTEEL", "JSWSTEEL", "SAIL", "BHEL", "TITAGARH"] },
+    { "name": "Piyush Goyal", "portfolio": "Ministry of Commerce and Industry", "tickers": ["RELAXO", "CAMPUS", "OKPLAY", "DIXON", "METROBRAND"] },
+    { "name": "Dharmendra Pradhan", "portfolio": "Ministry of Education", "tickers": ["NAVNETEDUL", "CAREERP"] },
+    { "name": "Jitan Ram Manjhi", "portfolio": "Ministry of Micro, Small and Medium Enterprises (MSME)", "tickers": ["SIDBI", "KEC", "GENUSPOWER"] },
+    { "name": "Rajiv Ranjan (Lalan) Singh", "portfolio": "Panchayati Raj, Fisheries, Animal Husbandry & Dairying", "tickers": ["AVANTIFEED", "APEX", "HATSUN", "DODLA"] },
+    { "name": "Sarbananda Sonowal", "portfolio": "Ministry of Ports, Shipping and Waterways", "tickers": ["ADANIPORTS", "COCHINSHIP", "SCI", "DREDGECORP"] },
+    { "name": "Dr. Virendra Kumar", "portfolio": "Ministry of Social Justice and Empowerment", "tickers": ["ALIMCO", "NBCC"] },
+    { "name": "K. Ram Mohan Naidu", "portfolio": "Ministry of Civil Aviation", "tickers": ["INDIGO", "SPICEJET", "GMRINFRA"] },
+    { "name": "Pralhad Joshi", "portfolio": "Consumer Affairs, Food & Public Distribution, New & Renewable Energy", "tickers": ["WAAREE", "PREMIERENE", "SUZLON", "BALRAMCHIN", "TRIVENI"] },
+    { "name": "Jual Oram", "portfolio": "Ministry of Tribal Affairs", "tickers": ["NMDC", "MOIL"] },
+    { "name": "Giriraj Singh", "portfolio": "Ministry of Textiles", "tickers": ["TRIDENT", "WELSPUNLIV", "ALOKINDS", "KPRMILL"] },
+    { "name": "Ashwini Vaishnaw", "portfolio": "Railways, Information & Broadcasting, Electronics & IT", "tickers": ["OPTIEMUSINF", "DIXON", "KAYNES", "CGPOWER", "RVNL", "IRCTC", "TITAGARH"] },
+    { "name": "Jyotiraditya Scindia", "portfolio": "Ministry of Communications, DoNER", "tickers": ["BHARTIARTL", "IDEA", "TEJASNET", "HFCL", "ITI"] },
+    { "name": "Bhupender Yadav", "portfolio": "Ministry of Environment, Forest and Climate Change", "tickers": ["SHREECEM", "ULTRACEMCO", "EPL"] },
+    { "name": "Gajendra Singh Shekhawat", "portfolio": "Ministry of Culture, Tourism", "tickers": ["INDHOTEL", "EIHOTEL", "LEMONTREE", "YATRA"] },
+    { "name": "Annpurna Devi", "portfolio": "Ministry of Women and Child Development", "tickers": ["NESTLEIND", "BRITANNIA"] },
+    { "name": "Kiren Rijiju", "portfolio": "Ministry of Parliamentary Affairs, Minority Affairs", "tickers": ["HUDCO", "NBCC"] },
+    { "name": "Hardeep Singh Puri", "portfolio": "Ministry of Petroleum and Natural Gas", "tickers": ["RELIANCE", "ONGC", "IOC", "BPCL", "GAIL", "IGL", "MGL"] },
+    { "name": "Dr. Mansukh Mandaviya", "portfolio": "Ministry of Labour and Employment, Youth Affairs & Sports", "tickers": ["TEAMLEASE", "SIS", "QUESS"] },
+    { "name": "G. Kishan Reddy", "portfolio": "Ministry of Coal, Mines", "tickers": ["COALINDIA", "NMDC", "VEDL", "HINDALCO"] },
+    { "name": "Chirag Paswan", "portfolio": "Ministry of Food Processing Industries", "tickers": ["BIKAJI", "TATACONSUM", "VBL", "AWL"] },
+    { "name": "C.R. Patil", "portfolio": "Ministry of Jal Shakti", "tickers": ["VA-TECH-WABAG", "PNCINFRA", "SUPREMEIND", "ASTRAL", "FINPIPE"] },
+    { "name": "Rao Inderjit Singh", "portfolio": "Statistics & Prog Implementation (IC), Planning (IC), Culture", "tickers": ["RITES", "IRCON"] },
+    { "name": "Dr. Jitendra Singh", "portfolio": "Science & Tech (IC), Earth Sciences (IC), Space, Atomic Energy", "tickers": ["MTARTECH", "PARAS", "CENTUM"] },
+    { "name": "Arjun Ram Meghwal", "portfolio": "Law and Justice (IC), Parliamentary Affairs", "tickers": ["BSE", "CDSL"] },
+    { "name": "Jadhav Prataprao Ganpatrao", "portfolio": "Ayush (IC), Health and Family Welfare", "tickers": ["DABUR", "PATANJALI"] },
+    { "name": "Jayant Chaudhary", "portfolio": "Skill Development and Entrepreneurship (IC), Education", "tickers": ["APTECHT", "NIITLTD"] },
+    { "name": "Jitin Prasada", "portfolio": "Commerce & Industry, Electronics & IT", "tickers": ["DIXON", "AMBER", "SYRMA"] },
+    { "name": "Shripad Yesso Naik", "portfolio": "Power, New & Renewable Energy", "tickers": ["SUZLON", "IREDA", "TATAPOWER"] },
+    { "name": "Pankaj Chaudhary", "portfolio": "Ministry of Finance", "tickers": ["SBIN", "PNB", "BANKBARODA"] },
+    { "name": "Krishan Pal Gurjar", "portfolio": "Cooperation", "tickers": ["COROMANDEL", "GNFC"] },
+    { "name": "Ramdas Athawale", "portfolio": "Social Justice and Empowerment", "tickers": ["NBCC"] },
+    { "name": "Ram Nath Thakur", "portfolio": "Agriculture and Farmers Welfare", "tickers": ["DHANUKA", "UPL"] },
+    { "name": "Nityanand Rai", "portfolio": "Home Affairs", "tickers": ["BEL", "BDL"] },
+    { "name": "Anupriya Patel", "portfolio": "Health & Family Welfare, Chemicals & Fertilizers", "tickers": ["DEEPAKNTR", "CIPLA"] },
+    { "name": "V. Somanna", "portfolio": "Jal Shakti, Railways", "tickers": ["RVNL", "TITAGARH"] },
+    { "name": "Dr. Chandra Sekhar Pemmasani", "portfolio": "Rural Development, Communications", "tickers": ["TEJASNET", "HFCL"] },
+    { "name": "Prof. S.P. Singh Baghel", "portfolio": "Fisheries, Animal Husbandry & Dairying, Panchayati Raj", "tickers": ["AVANTIFEED", "HATSUN"] },
+    { "name": "Shobha Karandlaje", "portfolio": "Micro, Small and Medium Enterprises, Labour and Employment", "tickers": ["SIDBI", "KEC"] },
+    { "name": "Kirtivardhan Singh", "portfolio": "Environment, Forest and Climate Change, External Affairs", "tickers": ["SHREECEM", "ULTRACEMCO"] },
+    { "name": "B.L. Verma", "portfolio": "Consumer Affairs, Food & Public Distribution, Social Justice", "tickers": ["AWL", "TATACONSUM"] },
+    { "name": "Shantanu Thakur", "portfolio": "Ports, Shipping and Waterways", "tickers": ["COCHINSHIP", "SCI"] },
+    { "name": "Suresh Gopi", "portfolio": "Petroleum and Natural Gas, Tourism", "tickers": ["COCHINSHIP", "FACT"] },
+    { "name": "Dr. L. Murugan", "portfolio": "Information and Broadcasting, Parliamentary Affairs", "tickers": ["ZEEL", "SUNTV"] },
+    { "name": "Ajay Tamta", "portfolio": "Road Transport and Highways", "tickers": ["IRB", "PNCINFRA"] },
+    { "name": "Bandi Sanjay Kumar", "portfolio": "Home Affairs", "tickers": ["BEL", "HAL"] },
+    { "name": "Kamlesh Paswan", "portfolio": "Rural Development", "tickers": ["ESCORTS", "M&M"] },
+    { "name": "Bhagirath Choudhary", "portfolio": "Agriculture and Farmers Welfare", "tickers": ["KAVERI", "BAYERCROP"] },
+    { "name": "Satish Chandra Dubey", "portfolio": "Coal, Mines", "tickers": ["COALINDIA", "NMDC"] },
+    { "name": "Sanjay Seth", "portfolio": "Defence", "tickers": ["MAZDOCK", "COCHINSHIP"] },
+    { "name": "Ravneet Singh Bittu", "portfolio": "Food Processing Industries, Railways", "tickers": ["IRCTC", "TITAGARH", "RAILTEL"] },
+    { "name": "Durga Das Uikey", "portfolio": "Tribal Affairs", "tickers": ["NMDC", "MOIL"] },
+    { "name": "Raksha Nikhil Khadse", "portfolio": "Youth Affairs and Sports", "tickers": ["CAMPUS", "RELAXO"] },
+    { "name": "Sukanta Majumdar", "portfolio": "Education, DoNER", "tickers": ["CAREERP", "NAVNETEDUL"] },
+    { "name": "Savitri Thakur", "portfolio": "Women and Child Development", "tickers": ["NESTLEIND", "BRITANNIA"] },
+    { "name": "Tokhan Sahu", "portfolio": "Housing and Urban Affairs", "tickers": ["NBCC", "HUDCO"] },
+    { "name": "Raj Bhushan Choudhary", "portfolio": "Jal Shakti", "tickers": ["VA-TECH-WABAG", "FINPIPE"] },
+    { "name": "Bhupathi Raju Srinivasa Varma", "portfolio": "Heavy Industries, Steel", "tickers": ["SAIL", "JSWSTEEL"] },
+    { "name": "Harsh Malhotra", "portfolio": "Corporate Affairs, Road Transport and Highways", "tickers": ["GRINFRA", "KNRCON"] },
+    { "name": "Nimuben Bambhania", "portfolio": "Consumer Affairs, Food and Public Distribution", "tickers": ["BALRAMCHIN", "TRIVENI"] },
+    { "name": "Murlidhar Mohol", "portfolio": "Cooperation, Civil Aviation", "tickers": ["GMRINFRA", "INDIGO"] },
+    { "name": "George Kurian", "portfolio": "Minority Affairs, Fisheries, Animal Husbandry and Dairying", "tickers": ["APEX", "AVANTIFEED"] },
+    { "name": "Pabitra Margherita", "portfolio": "External Affairs, Textiles", "tickers": ["TRIDENT", "WELSPUNLIV"] }
   ],
   "signals": [
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Ashwini Vaishnaw Inaugurates 4 Gati Shakti Cargo Terminals In Gujarat, Lays Foundation For Fifth - Swarajya",
-      "minister": "Ashwini Vaishnaw",
-      "impact": "Automated scrape. Assess sensitivity across: OPTIEMUSINF, DIXON, KAYNES, CGPOWER",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPamVtc0lCQ0ZtZlBxSEQzYXdnYlQ1SzB2OURuTmlEc2lMTTJKX3Q4aWRSdVVxcld4enNld1dHR0dwdUhaUUk5UjdMdTI3YXd0a1Zra2RncUE1dVRtaFdub3FNb3RuaHlNTXEzNFYxT1NOTjF4YVJ5Sk43NmJGdFk3c1ZnV3Bmdjl1cmVJTUNwVXJfWW1xSnNhTGlmS1Q4Uk9kYmdlbGhndVlpWkVrUVdCRFF4dlplZEhJSE1lLVdLWHo4cEJZMkFkaWt30gHaAUFVX3lxTE1MNFJFNEpTZjVpTzJhWS1KdDM0SncwTHpXNDVzS1g5c0NpeXZZRDBzQ090N2llUGhaTC1XX00tR19fa2hiR3pMN2xSb1RrUms2U000a1lDWnZXSFp3UnFqQnhQdVgyVl9Eejd1ZWduVzk2QUp4Q21qYlhVLWY0Tm5yUHg5S2VOTko4VHIzWGxXVTdPOXZodDFZVlpWRG1KalhoenE3YlY0SGlHOTJZSlRINmE4dkhzU3JXb0NnaElMaHNJYjBYdnFWc3huV0E0Um13UHVyRDNVNUZ3?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "'India's first wafer from Dholera semiconductor plant likely in 2028': Ashwini Vaishnaw | India News - Hindustan Times",
-      "minister": "Ashwini Vaishnaw",
-      "impact": "Automated scrape. Assess sensitivity across: OPTIEMUSINF, DIXON, KAYNES, CGPOWER",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2JlLUxOYWxLTldfZk16cFRpTmdlc1dsSnZJNHhpaWV0Ymc0Ykwtdml3MWQ0V2hJaWVNVVlmSVkzemh3QzBpdWVIcVBZbDJsdXpCR2ItYWpYRE96NTMtVG5QNmlSLXpsdG8zRTIza0FiUjk1bDB1VThGS0o1dUFJX0dncl9KbVdnQTU4M2dZYjg5eGJTZUJVVEhSSlB1U0o0U3kwR21LZ1huaVFDMWdNWTZPZlNZSlA2VU90aHZ2ZHplMGwwRWRNWEExMUtQZ05hYzYxd3pFWUgzQ19WYVZj0gHkAUFVX3lxTE5qQXZVWXliS1F5RlE3R1ZxVmpLMWoyYTM0bVJqUFFITkNvbVhKYVg2ZzhJbHRpQkR1VDFKQ1NLMWZwMXgwY2RoRm8zTnZpTGhCNnd0MmNsOVVEam5ka0U5a0dWLVFLWU9Cb1RmYWdMYVd6RnExdnhkX0J3QlZFMkgzbFpoUl9HNkZZeVY2NUtHRk5GQmE3S0JCSDNuLWtndERqNmVhcHBfMlBPUi1aVXExUDRiMlZyYWs1Y3BxdWpWYXVScnhpUWkydDdDM3kyT2YwWFVITkJmamRoWnRYdi1QZXp0eg?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Union Minister Ashwini Vaishnaw Inaugurates Semiconductor Labs at SCL Mohali, Eyes Major Global Role for India - News On AIR",
-      "minister": "Ashwini Vaishnaw",
-      "impact": "Automated scrape. Assess sensitivity across: OPTIEMUSINF, DIXON, KAYNES, CGPOWER",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOEFRZk5vYXdxVWZONFlYdmZiUWdhbXRDdEo2djgtNzZDbjVwOG9OaV9kYUJQWFJ0bWJqMU4xdUdkdHRYM0U3eGdfT0ktVGM3ZW1yc2l3cTVsejNSMXVta0ludXItSXprOUhMLU9sSjBKaXYzNGRwWmE0VDBTN3B6M2Q3cVFjQzJpbTV3Q0tmWVg1TzlnUHlLRmZYUk9YdUZhcDZKd0kwMUhCcGFrNW5ZR24ydVZReUlSOHZ2T2w4aWEwM3VyazhZMG5ZeVlOamVw?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "India’s innovation surge will drive the vision of Viksit Bharat: Shri Pralhad Joshi - PIB",
-      "minister": "Pralhad Joshi",
-      "impact": "Automated scrape. Assess sensitivity across: WAAREE, PREMIERENE, SUZLON, BALRAMCHIN",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rZDRCZTZLUkNDejA4dko2TUJlVFdGRmxyMEVfUWEwQ2E3cnFNRG0tZ2ZDNlNiYU4zcFh6QzNPSHIzU2hqM0dHbnd2QVFGTklLS2MzbDNFZzBEdVpiTHVtZ0lXMjVrQzVL?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "BIS Standard",
-      "title": "Union Minister Pralhad Joshi Highlights Decade of Transformation at BIS - News On AIR",
-      "minister": "Pralhad Joshi",
-      "impact": "Automated scrape. Assess sensitivity across: WAAREE, PREMIERENE, SUZLON, BALRAMCHIN",
-      "stage": "STAGE 2",
-      "badge": "badge-stage2",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZXp2Ulp0NDRLOHFybjAzc0YySFdwRXdVN0h5U3BKNUlxVzROUE9RRWxKZk5kWTVvWWxaa0ZGWVRnVVI5SDNYdFlJb0tUdlRFRlhyZ0xDZjhFczVGUDI5TDZoRnZKWG56SlYwRUtyRVh5aU1RTVRuaVpWX2ZqQlExcnU2bl82V1JUMTBrV0tOMUVVTTdQVXFSWlJuaDNTQQ?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Pralhad Joshi inaugurates 1,200-bed medical college in Karnataka | Tap to know more | Inshorts - Inshorts",
-      "minister": "Pralhad Joshi",
-      "impact": "Automated scrape. Assess sensitivity across: WAAREE, PREMIERENE, SUZLON, BALRAMCHIN",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbTdyNzZ4c3NMS1JIZUJtZ19yQXBJZ21JeVNpN2FrRGNySWhmQjNzS3N4THNtRUl6QjZtOHNTOEhZU3dOQk1QUXZaRmlGMUhCZGRPWmNHYVQ0YTBrUzhWNmxxM2F4dy1sYUZPMWxkVHdybGQ3ODdXYXBOWm1aRmhPNmZaWlYxSkY5R0tjZnI2OVQtQ2NNYzhqMWI2ZTJFajJOdnBKSmNGV3hZak3SAbABQVVfeXFMTlFHTS1HSkVDNXFBLXBGVk1Gajk5S1kxOWFVUlNQYlpnVmRwM09RQjB5QlhoblllYk5VUHUtVkc5LUhEdEZYVlRDSThhZTh1NjgyVTRqUnA3alllUEJxQktNa3NBSW1FYm5wZnRlMzB0ZjZhNVVLbkpVQjgzZ2M2RldTSlRKdjdxdFFLaGZ4Y2xzVmp0YWhybkpBQkhqb1RUVHZHaWtrbjYyTnpiTWlldXM?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Piyush Goyal likely to meet USTR Jamieson Greer amid tariff threat - Business Standard",
-      "minister": "Piyush Goyal",
-      "impact": "Automated scrape. Assess sensitivity across: RELAXO, CAMPUS, OKPLAY",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTF6Tmo3QUlyU1ZNT2E3VzFOX0J0bTVIclRrYWNFWlpBWG5QNWRmcXdmRUNUUXl5UDR3T0hTWklvQWN2ZENVdGo4WE44RHVWaUhnMGpYWmY0ZzNCaWVwdmUzRzVsVldxX09CaXZwVVc4b2d4OFN6ckVXUXFMWkJBVURYZmxfOWpRX2tjTXA1WEFmNXJscnBNMG9Sb3hTdzg0SF90b3NCTlp1Snh3ZTNOcG53U3I0U2lUdkJ5NlM3ZFcxX3ZyamQ1WEdKWGs1ak1WU1ljOEZ30gHbAUFVX3lxTE02YmswQ241U0UyQ2tNLV8tQ3QxZjJHZjlpYVh3ZmRXLU9waWpnYTR3T1R2UUVxTEZGN0l6OENXYXFDVXhVRVpyMVA4QUpwUU1QV2dxc1Z6OXk1OUFMZ1Rkd1FqOHJENzBmWlpGMy1VQ0trZTA3aGp4bFVJWnRQM1pMVUhrSWl1dVE3RU1RMnNhQWlfaXZkZndrQW04TTU3bS1lamoweWljUVB1NktYYzBJRmF0T1lOU1JDNWxaRy1CSkdBcmFONWJiQjZ2TnFfRWoxNGtvSFhid3dOcw?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Piyush Goyal hails 12 years of ‘Make in India’, says PM Modi’s vision of manufacturing for the world is taking shape - DD India",
-      "minister": "Piyush Goyal",
-      "impact": "Automated scrape. Assess sensitivity across: RELAXO, CAMPUS, OKPLAY",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFg1QllJV21pSjVBWDlnc2lLQkwyeVRHeUZNcVl1WW8zSHZMeGRfNkxGYW5iRTk2Zy10bzlyVTFjd3NvUmpfMEl4bEUxRmM4anNmLTlINkpFaF9OZFhYME5DZmdMYzFOcjczbm5ld2FOV1dpRDJVTlpPVjFMajZhUC11QjVzZDUzZUU1UWNXRVhMakpheFl6c0ticnRiRlBadVZJUkFjajRBMkl5N3dQOXl6TWJXS05aZGk0YzV6a1pUSGlDZ0FYWlJMQmtuTWFLb0FjQXhtNk11Ym8?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Union Minister Piyush Goyal inaugurates second skill development centre at Kandivali, North Mumbai - News On AIR",
-      "minister": "Piyush Goyal",
-      "impact": "Automated scrape. Assess sensitivity across: RELAXO, CAMPUS, OKPLAY",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzV0TE9ZOXZaUFFqRU9VRm9BSkxzYlRWT2t1Y1pleTdoOVlIWmRpOHdEV2RpZ2lOaFZJaVB4dHgwcldORnpmZGdBZkZ0dmhfcmg1V3FyU3lSU0Jwa1pvVURDWjZVbVlSb1cwbTI4M3B0VG9ERkdfczk4b1I4d3ltTk1STnlsaU9FSHI1RllMOWlvN0dvZnY2d2duaXd3OGFHMThWakpLTzhwN1A3ODU1cnlET1Y0VnhFZjRMX1VLVXQ?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Op Sindoor sent a global message that India will go to any extent to ensure safety of its citizens: Raksha Mantri - PIB",
-      "minister": "Rajnath Singh",
-      "impact": "Automated scrape. Assess sensitivity across: HAL, BEL, MAZDOCK, BDL",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NZXpjd0lZUnVXRFlXYjFDS21sNHZLU1VhMXJaS1p4SUxrS2tIZzhTU0w2ZWJwVGZsanRfeFJwLS0yeGVTSUhucTR4ZnE2SG52Y0hXcmdtOGRwYUowaDlIXzBPeTBSV3JOUUJB?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Rajnath Singh inaugurates re-developed Hutatma Smruti Smarak in Goa, pays tribute to Liberation Satyagrahis - DD India",
-      "minister": "Rajnath Singh",
-      "impact": "Automated scrape. Assess sensitivity across: HAL, BEL, MAZDOCK, BDL",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZkZkOGdSUVJ0X204cFlhb1Nia0JhNU5TQkJEZWJRaXRLanF6VEdQSTBQTjFQWE42OHhmOEg1eEotOGYxNlAtMXIwQnNFdUREYlJhYW9kWU5fZWNvT3VKNXZzS1V2N2VwMDhEQjN1VW9ZQWdtc2tBMkNfZHE3Ymk0MWwyaTVqLUJVT0MwNVpITDgxcGRNT1pVR1FxY2ZzQzNMM2NiWUtaUE1JUXkteGVvYkN1X0toRXg4UDRIcHhhVGdNUHRyVXJ4V0NiYzJGcThOdk9z?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Defence Minister Rajnath Singh inaugurates Unnat Krishi Mahotsav in Raisen district, Madhya Pradesh - News On AIR",
-      "minister": "Rajnath Singh",
-      "impact": "Automated scrape. Assess sensitivity across: HAL, BEL, MAZDOCK, BDL",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXphelRGTEJjM3VJQWZhNnNOMkttQnoyT21XOGxPY1JwWllOcnNxVkNEQjctNzhra3lXVFM0MEFjaVhMa1g0eWtwdFU5d1NwVWhnaEtMbkptSlg1NFZsN25iQmFJNWFmZzBuZ0gwd2RQeFRPVkxKNWhUci1PLVVZRF9lc0t1SWFCVnBXS3FjS2pnQno1dDVHaFZ6cktud1plcTJ3eXA2dkY2OWZUZGNUT0VFUTU5eTdpdGtjZV9VSERodw?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Nitin Gadkari Inaugurates Porvorim Elevated Corridor In Goa: Watch - NDTV",
-      "minister": "Nitin Gadkari",
-      "impact": "Automated scrape. Assess sensitivity across: IRB, KNRCON, PNCINFRA",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzRxOXZVcFgxSnoyaG1CSjctTHZacG1fWDZYV0ktOUpwZFkyMVljRy1WdU5UcHg5TmxydWJzTkpLSll5d0FrUnZhNlhISFRGMHh6M0NzZWE2YV9kRjVCcm5fV3JZOGQ1TDNoUGFPdXdDTGd0S0lFb0xBU2tYdEpzcU91V29NbXBGY3J4MFNJSXV1QjhfVHM3QTFndlV2NjAxR2fSAaoBQVVfeXFMTWVJb3YxdVNFRGl1SUZiMldJalQzbE1mQ2tEVmhUWWRxb203Uk41cXRsSExyc2pvV0NSV01tM3Byam9QRjU3UUxoWUJPbDk0OVhfSV9rTUE1OHdpUGR2NF9PblhoNDRzMHNsOVJseVRLRWdVNW8tRjBhU0ttT1J3ZkRiYTNlamVsdzdqWlU5ZlFGLW1nRjkzR0xzLVhqSmxVeFBicXpreW9WVmc?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Nitin Gadkari inaugurates & lays foundation stones of 15 National Highway projects in Bihar - Elets eGov",
-      "minister": "Nitin Gadkari",
-      "impact": "Automated scrape. Assess sensitivity across: IRB, KNRCON, PNCINFRA",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObW92SDFJSUJhYnI5eGRNNWR3ZG9Tc09LX3NYVlBpa1RaRkpXbXBEU05Xa015U0o3SGIyUXhxUWwzTUlpOVZVQjhDb1VkMjhoeDlaa3pMVXhmMlhnWHM1czVFeVBsaEpBcTVLYTRieGY4TVFjX0dSWklaTC1uSXdFOTdETW5QZWppRy00dVZtcmt1R1NfYmV1ZE9hS0JYa2x5UDdYcVpHNHZfRFp5TlJDR2NBai1nVXVIR3RlWlhCTWkxdTVEQ3c?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "Visit / Inauguration",
-      "title": "Nitin Gadkari inaugurates 6 National Highway projects worth Rs 3,700 Cr in Gaya | Akashvani News - News On AIR",
-      "minister": "Nitin Gadkari",
-      "impact": "Automated scrape. Assess sensitivity across: IRB, KNRCON, PNCINFRA",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYm9HZndVZEVfZU1vZVl0VzNJbVNlN3VQTk80V3JrUEw1OVdwQnRRVmlyQU9YTDVKQUl6VERIaGx6Mk9HRjEtVm85Z1BTaFNRN3RfYnV1VDJKN0l5NXFhN01pRTF4QUIweFQ2VERlZzFrdmozcFJrSVdEYXd6WV8wMklsVncyTlNJOV9TcnIxME5NVWItYTBwbDBRcm9USEx0NjNwZzVpbw?oc=5"
-    },
     {
       "date": "28 Sep 2026",
       "category": "QCO Order",
@@ -208,6 +82,7 @@
       "impact": "Import choke on unorganized screen guards; direct capacity moat for domestic manufacturers.",
       "stage": "STAGE 4",
       "badge": "badge-stage4",
+      "dynamic_tickers": ["OPTIEMUSINF"],
       "url": "https://bis.gov.in"
     }
   ]
