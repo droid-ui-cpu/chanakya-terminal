@@ -33,13 +33,15 @@
     .list-container { max-height: calc(100vh - 200px); overflow-y: auto; display: flex; flex-direction: column; gap: 8px; }
     .item-card { background: #162032; border: 1px solid var(--border); border-radius: 4px; padding: 10px; cursor: pointer; transition: 0.15s; }
     .item-card:hover { border-color: var(--amber); background: #1a273f; }
+    .item-card.active { border-left: 3px solid var(--amber); background: #1f2d47; }
     .badge { display: inline-block; padding: 2px 6px; border-radius: 3px; font-size: 10px; font-weight: 700; margin-bottom: 4px; margin-right: 4px; }
     .badge-stage1 { background: #1e3a8a; color: #93c5fd; }
     .badge-stage2 { background: #4c1d95; color: #d8b4fe; }
     .badge-stage3 { background: #78350f; color: #fde68a; }
     .badge-stage4 { background: #065f46; color: #6ee7b7; }
     .badge-cyan { background: #164e63; color: #67e8f9; }
-    .ticker-tag { background: #000; border: 1px solid #374151; color: #38bdf8; padding: 1px 5px; border-radius: 3px; font-size: 11px; margin-right: 4px; font-family: monospace; }
+    .ticker-tag { background: #000; border: 1px solid #374151; color: #38bdf8; padding: 1px 5px; border-radius: 3px; font-size: 11px; margin-right: 4px; font-family: monospace; display: inline-block; margin-bottom: 3px; }
+    .ticker-tag-discovered { background: #0284c7; color: #fff; border: 1px solid #38bdf8; padding: 1px 5px; border-radius: 3px; font-size: 11px; margin-right: 4px; font-family: monospace; font-weight: 700; display: inline-block; }
     .feed-item { border-bottom: 1px solid #1f2937; padding: 12px 0; }
     .feed-item:last-child { border-bottom: none; }
     .feed-title { font-weight: 600; color: #f3f4f6; margin-bottom: 6px; font-size: 13px; line-height: 1.4; }
@@ -55,7 +57,7 @@
   <div class="header">
     <div>
       <span class="terminal-title">CHANAKYA INTELLIGENCE TERMINAL</span>
-      <span class="terminal-tag">UNION EXECUTIVE & REGULATORY ARBITRAGE</span>
+      <span class="terminal-tag">DYNAMIC ARBITRAGE & REGULATORY ENGINE</span>
     </div>
     <div class="status-badge">
       <div class="status-dot"></div>
@@ -71,14 +73,14 @@
       <div class="list-container" id="ministerList"></div>
     </div>
 
-    <!-- PANEL 2: REGULATORY ARBITRAGE SIGNALS (LIVE FEED) -->
+    <!-- PANEL 2: REGULATORY ARBITRAGE SIGNALS (LIVE WIRE) -->
     <div class="panel">
       <div class="panel-header">
         <span>Regulatory News Wire & Stage Arbitrage</span>
         <button class="btn-refresh" onclick="fetchLiveRssFeed()">Force News Pull</button>
       </div>
       <div class="list-container" id="signalFeed">
-        <div style="color: var(--text-muted); padding: 12px;">Fetching real-time regulatory filings and news alerts...</div>
+        <div style="color: var(--text-muted); padding: 12px;">Connecting to regulatory feeds and active entity resolvers...</div>
       </div>
     </div>
 
@@ -86,7 +88,7 @@
     <div class="panel">
       <div class="panel-header">Dossier / Sensitivity Profile</div>
       <div id="dossierView" style="color: var(--text-muted); padding: 8px;">
-        Click any minister on the left to inspect portfolio jurisdiction, statutory powers, and stock sensitivity.
+        Click any minister on the left to inspect portfolio jurisdiction, dynamic tickers, and statutory moats.
       </div>
     </div>
   </div>
@@ -94,19 +96,94 @@
   <script>
     let MINISTERS = [];
     let SIGNALS = [];
+    let SELECTED_MINISTER_IDX = 0;
 
-    // Entity mapping for dynamic ticker extraction
-    const COMPANY_MAP = {
-      "optiemus": "OPTIEMUSINF", "corning": "OPTIEMUSINF", "dixon": "DIXON",
-      "kaynes": "KAYNES", "cg power": "CGPOWER", "waaree": "WAAREE",
-      "premier energies": "PREMIERENE", "suzlon": "SUZLON", "balrampur": "BALRAMCHIN",
-      "relaxo": "RELAXO", "campus": "CAMPUS", "hal": "HAL", "bel": "BEL",
-      "mazagon": "MAZDOCK", "cochin shipyard": "COCHINSHIP", "l&t": "LT",
-      "larsen": "LT", "irb": "IRB", "titagarh": "TITAGARH", "rvnl": "RVNL",
-      "irctc": "IRCTC", "tata steel": "TATASTEEL", "jsw": "JSWSTEEL",
-      "sail": "SAIL", "indigo": "INDIGO", "adani ports": "ADANIPORTS",
-      "reliance": "RELIANCE", "ongc": "ONGC", "bhel": "BHEL", "ireda": "IREDA"
+    // Cache for dynamically resolved tickers
+    const DYNAMIC_TICKER_CACHE = {
+      "optiemus": "OPTIEMUSINF",
+      "corning": "OPTIEMUSINF",
+      "dixon": "DIXON",
+      "kaynes": "KAYNES",
+      "cg power": "CGPOWER",
+      "waaree": "WAAREE",
+      "premier energies": "PREMIERENE",
+      "suzlon": "SUZLON",
+      "balrampur": "BALRAMCHIN",
+      "relaxo": "RELAXO",
+      "campus activewear": "CAMPUS",
+      "hindustan aeronautics": "HAL",
+      "bharat electronics": "BEL",
+      "mazagon dock": "MAZDOCK",
+      "cochin shipyard": "COCHINSHIP",
+      "larsen & toubro": "LT",
+      "l&t": "LT",
+      "irb infrastructure": "IRB",
+      "titagarh": "TITAGARH",
+      "rvnl": "RVNL",
+      "irctc": "IRCTC",
+      "tata steel": "TATASTEEL",
+      "jsw steel": "JSWSTEEL",
+      "sail": "SAIL",
+      "indigo": "INDIGO",
+      "interglobe": "INDIGO",
+      "spicejet": "SPICEJET",
+      "adani ports": "ADANIPORTS",
+      "reliance": "RELIANCE",
+      "ongc": "ONGC",
+      "bhel": "BHEL",
+      "ireda": "IREDA"
     };
+
+    // Named Entity Candidates Extractor
+    function extractCompanyCandidates(headline) {
+      const candidates = [];
+      const actionRegexes = [
+        /(?:inaugurates|visits|approves|unveils)\s+([A-Z][A-Za-z0-9&]+(?:\s+[A-Z][A-Za-z0-9&]+)?)\s+(?:plant|facility|unit|factory|project|campus)/i,
+        /(?:contract|concession|order|tender)\s+(?:awarded\s+to|for)\s+([A-Z][A-Za-z0-9&]+(?:\s+[A-Z][A-Za-z0-9&]+)?)/i,
+        /(?:partnership|tie-up|joint venture|JV)\s+with\s+([A-Z][A-Za-z0-9&]+(?:\s+[A-Z][A-Za-z0-9&]+)?)/i,
+        /([A-Z][A-Za-z0-9&]+(?:\s+[A-Z][A-Za-z0-9&]+)?)\s+(?:secures|bags|wins|invests|sets up)/i
+      ];
+
+      for (const regex of actionRegexes) {
+        const match = headline.match(regex);
+        if (match && match[1]) {
+          const candidate = match[1].trim();
+          if (!/^(PM|Union|Cabinet|National|Government|State|India|Centre|Central|Minister|Ministry|Bharatiya|Modi|Singh|Goyal|Vaishnaw|Gadkari|Shah)$/i.test(candidate)) {
+            candidates.push(candidate);
+          }
+        }
+      }
+      return candidates;
+    }
+
+    // Dynamic Open-Ended NSE/BSE Symbol Resolver
+    async function resolveDynamicEquity(companyQuery) {
+      const clean = companyQuery.toLowerCase().replace(/(limited|ltd|pvt|enterprises|industries)/gi, '').trim();
+      if (clean.length < 3) return null;
+      if (DYNAMIC_TICKER_CACHE[clean]) {
+        return DYNAMIC_TICKER_CACHE[clean];
+      }
+
+      try {
+        const searchUrl = `https://query1.finance.yahoo.com/v1/finance/search?q=${encodeURIComponent(clean)}&quotesCount=3&newsCount=0`;
+        const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(searchUrl)}`;
+        const res = await fetch(proxyUrl);
+        const data = await res.json();
+        const parsed = JSON.parse(data.contents);
+
+        if (parsed.quotes && parsed.quotes.length > 0) {
+          const indianQuote = parsed.quotes.find(q => q.symbol && (q.symbol.endsWith('.NS') || q.symbol.endsWith('.BO')));
+          if (indianQuote) {
+            const ticker = indianQuote.symbol.replace(/\.(NS|BO)$/, '');
+            DYNAMIC_TICKER_CACHE[clean] = ticker;
+            return ticker;
+          }
+        }
+      } catch (err) {
+        // Fallback gracefully on network timeout
+      }
+      return null;
+    }
 
     async function loadData() {
       try {
@@ -123,17 +200,17 @@
       document.getElementById('ministerCount').innerText = MINISTERS.length;
       renderMinisters(MINISTERS);
       renderSignals(SIGNALS);
+      if (MINISTERS.length > 0) selectMinister(0);
 
-      // Trigger browser-based live news pull immediately
       fetchLiveRssFeed();
     }
 
     async function fetchLiveRssFeed() {
-      document.getElementById('syncStatus').innerText = "QUERYING REAL-TIME SIGNALS...";
+      document.getElementById('syncStatus').innerText = "SCANNING REGULATORY FEEDS...";
       
       const queries = [
-        '("Ashwini Vaishnaw" OR "Piyush Goyal" OR "Nitin Gadkari" OR "Rajnath Singh") (inaugurates OR plant OR QCO OR BIS OR PLI)',
-        '("Quality Control Order" OR "Approved List of Models" OR "Anti-dumping" OR "MeitY PLI") India'
+        '("Ashwini Vaishnaw" OR "Piyush Goyal" OR "Nitin Gadkari" OR "Rajnath Singh") (inaugurates OR plant OR QCO OR BIS OR PLI OR tender)',
+        '("Quality Control Order" OR "Approved List of Models" OR "Anti-dumping" OR "MeitY PLI") (mandate OR order OR India)'
       ];
 
       let liveItems = [];
@@ -149,54 +226,79 @@
           const xmlDoc = parser.parseFromString(data.contents, "text/xml");
           const items = xmlDoc.querySelectorAll("item");
 
-          items.forEach(item => {
+          for (const item of Array.from(items).slice(0, 8)) {
             const title = item.querySelector("title")?.textContent || "";
             const link = item.querySelector("link")?.textContent || "#";
             const pubDate = item.querySelector("pubDate")?.textContent || "";
             const lower = title.toLowerCase();
 
-            // Arbitrage Stage categorization
-            let category = "Regulatory Directive";
+            // Strict regulatory stage classification
+            let category = "General Directive";
             let stage = "STAGE 1";
             let badge = "badge-stage1";
 
-            if (lower.includes("qco") || lower.includes("quality control")) {
+            if (/\bqco\b|quality control order/i.test(lower)) {
               category = "QCO Order"; stage = "STAGE 4"; badge = "badge-stage4";
-            } else if (lower.includes("bis") || lower.includes("standard")) {
+            } else if (/\bbis\b|standard/i.test(lower)) {
               category = "BIS Standard"; stage = "STAGE 2"; badge = "badge-stage2";
-            } else if (lower.includes("pli") || lower.includes("subsidy") || lower.includes("tender")) {
+            } else if (/\bpli\b|allocation|tender|concession/i.test(lower)) {
               category = "PLI / Allocation"; stage = "STAGE 3"; badge = "badge-stage3";
-            } else if (lower.includes("inaugurat") || lower.includes("foundation") || lower.includes("plant")) {
+            } else if (/inaugurat|foundation stone|pilot plant/i.test(lower)) {
               category = "Plant Inauguration"; stage = "STAGE 1"; badge = "badge-stage1";
             }
 
-            // Extract dynamic tickers
+            // Dynamic entity extraction: find company candidate in text
             const detectedTickers = [];
-            for (const [key, ticker] of Object.entries(COMPANY_MAP)) {
-              if (lower.includes(key) && !detectedTickers.includes(ticker)) {
+
+            // 1. Strict regex check for known companies
+            for (const [key, ticker] of Object.entries(DYNAMIC_TICKER_CACHE)) {
+              const regex = new RegExp(`\\b${key}\\b`, 'i');
+              if (regex.test(title) && !detectedTickers.includes(ticker)) {
                 detectedTickers.push(ticker);
               }
             }
+
+            // 2. Open-ended extraction: parse unnamed candidates from grammar
+            const candidates = extractCompanyCandidates(title);
+            for (const cand of candidates) {
+              const resolvedTicker = await resolveDynamicEquity(cand);
+              if (resolvedTicker && !detectedTickers.includes(resolvedTicker)) {
+                detectedTickers.push(resolvedTicker);
+
+                // DYNAMIC BINDING: Dynamically attach to the relevant minister's live dossier
+                const matchedMinister = findMinisterInTitle(title);
+                if (matchedMinister && !matchedMinister.tickers.includes(resolvedTicker)) {
+                  matchedMinister.tickers.unshift(resolvedTicker);
+                  renderMinisters(MINISTERS);
+                  if (MINISTERS[SELECTED_MINISTER_IDX]?.name === matchedMinister.name) {
+                    selectMinister(SELECTED_MINISTER_IDX);
+                  }
+                }
+              }
+            }
+
+            const ministerName = findMinisterInTitle(title)?.name || "Union Executive / Central Ministry";
 
             liveItems.push({
               date: pubDate ? new Date(pubDate).toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }) : 'Live Alert',
               category: category,
               title: title,
-              minister: extractMinisterName(title),
-              impact: detectedTickers.length > 0 ? `Dynamic equity sensitivity detected for ${detectedTickers.join(', ')}.` : `General policy alert flagged from live national wire.`,
+              minister: ministerName,
+              impact: detectedTickers.length > 0 
+                ? `Dynamic equity sensitivity flagged: ${detectedTickers.join(', ')}.` 
+                : `Broad statutory policy announcement; assess sector portfolio sensitivity.`,
               stage: stage,
               badge: badge,
               dynamic_tickers: detectedTickers,
               url: link
             });
-          });
+          }
         } catch (err) {
-          console.warn("Live RSS fetch attempt completed with notice:", err);
+          console.warn("RSS pull iteration error:", err);
         }
       }
 
       if (liveItems.length > 0) {
-        // Deduplicate against existing signals
         const seen = new Set();
         const combined = [...liveItems, ...SIGNALS].filter(item => {
           const key = item.title.toLowerCase().trim();
@@ -204,27 +306,27 @@
           seen.add(key);
           return true;
         });
-        SIGNALS = combined.slice(0, 50);
+        SIGNALS = combined.slice(0, 60);
         renderSignals(SIGNALS);
-        document.getElementById('syncStatus').innerText = `LIVE ACTIVE (${SIGNALS.length} SIGNALS)`;
+        document.getElementById('syncStatus').innerText = `FEED ACTIVE (${SIGNALS.length} SIGNALS)`;
       } else {
         document.getElementById('syncStatus').innerText = "LIVE READY (SYSTEM SYNCED)";
       }
     }
 
-    function extractMinisterName(title) {
+    function findMinisterInTitle(title) {
       for (const m of MINISTERS) {
-        if (title.toLowerCase().includes(m.name.toLowerCase())) {
-          return m.name;
-        }
+        // Strict boundary match for minister name
+        const regex = new RegExp(`\\b${m.name.replace(/Dr\.\s*|Prof\.\s*/i, '')}\\b`, 'i');
+        if (regex.test(title)) return m;
       }
-      return "Union Cabinet / Central Ministry";
+      return null;
     }
 
     function renderMinisters(list) {
       const container = document.getElementById('ministerList');
       container.innerHTML = list.map((m, idx) => `
-        <div class="item-card" onclick="selectMinister(${idx})">
+        <div class="item-card ${idx === SELECTED_MINISTER_IDX ? 'active' : ''}" onclick="selectMinister(${idx})">
           <div style="font-weight: 700; color: #fff;">${m.name}</div>
           <div style="font-size: 11px; color: var(--text-muted); margin-bottom: 6px;">${m.portfolio}</div>
           <div>
@@ -248,7 +350,7 @@
           </div>
           <div class="feed-title">${s.title}</div>
           <div style="margin: 4px 0;">
-            ${(s.dynamic_tickers || []).map(t => `<span class="ticker-tag" style="background:#0284c7; color:#fff; border:none; font-weight:700;">${t}</span>`).join('')}
+            ${(s.dynamic_tickers || []).map(t => `<span class="ticker-tag-discovered">${t}</span>`).join('')}
           </div>
           <div class="impact-box">${s.impact}</div>
           <div class="feed-meta">
@@ -260,23 +362,29 @@
     }
 
     function selectMinister(idx) {
+      SELECTED_MINISTER_IDX = idx;
+      const cards = document.querySelectorAll('.item-card');
+      cards.forEach((c, i) => c.classList.toggle('active', i === idx));
+
       const m = MINISTERS[idx];
+      if (!m) return;
+
       const view = document.getElementById('dossierView');
       view.innerHTML = `
         <div style="font-size: 16px; font-weight: 800; color: #fff; margin-bottom: 4px;">${m.name}</div>
         <div style="font-size: 12px; color: var(--amber); margin-bottom: 12px; font-weight:600;">${m.portfolio}</div>
         
-        <div style="font-weight: 700; margin-bottom: 6px; color: #fff;">Sector Equity Watchlist:</div>
+        <div style="font-weight: 700; margin-bottom: 6px; color: #fff;">Tracked & Discovered Equities:</div>
         <div style="margin-bottom: 14px; display:flex; flex-wrap:wrap; gap:4px;">
           ${m.tickers.map(t => `<span class="ticker-tag" style="font-size: 12px; padding: 3px 7px;">${t}</span>`).join('')}
         </div>
 
-        <div style="font-weight: 700; margin-bottom: 6px; color: #fff;">Statutory Levers Tracked:</div>
+        <div style="font-weight: 700; margin-bottom: 6px; color: #fff;">Statutory Moat Levers:</div>
         <ul style="padding-left: 18px; font-size: 12px; color: #cbd5e1; line-height: 1.6;">
           <li>Mandatory Quality Control Orders (QCO) via BIS</li>
-          <li>Capital Subsidy & PLI tranches approval</li>
-          <li>Customs & Anti-dumping recommendations</li>
-          <li>Tender eligibility and local content stipulations</li>
+          <li>Production-Linked Incentive (PLI) tranche disbursements</li>
+          <li>Exclusive Public Procurement & Concession tenders</li>
+          <li>Import Authorization barriers & Technical Barriers to Trade (TBT)</li>
         </ul>
       `;
     }
