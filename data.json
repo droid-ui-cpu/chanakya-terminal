@@ -117,14 +117,6 @@
       ]
     },
     {
-      "name": "Dharmendra Pradhan",
-      "portfolio": "Ministry of Education",
-      "tickers": [
-        "NAVNETEDUL",
-        "CAREERP"
-      ]
-    },
-    {
       "name": "Jitan Ram Manjhi",
       "portfolio": "Ministry of Micro, Small and Medium Enterprises (MSME)",
       "tickers": [
@@ -171,14 +163,16 @@
       ]
     },
     {
-      "name": "Pralhad Joshi",
-      "portfolio": "Consumer Affairs, Food & Public Distribution, New & Renewable Energy",
+      "name": "Prahlad Joshi",
+      "portfolio": "Ministry of Education, Consumer Affairs, Food & Public Distribution, New & Renewable Energy",
       "tickers": [
         "WAAREE",
         "PREMIERENE",
         "SUZLON",
         "BALRAMCHIN",
-        "TRIVENI"
+        "TRIVENI",
+        "NAVNETEDUL",
+        "CAREERP"
       ]
     },
     {
