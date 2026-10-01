@@ -640,6 +640,150 @@
   ],
   "signals": [
     {
+      "date": "01 Oct 2026",
+      "category": "Visit / Inauguration",
+      "title": "Ashwini Vaishnaw inaugurates 20 - DD News",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-stage1",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV1B2WHM0RnRuS29iM2pOOFpEbHp5YS1PRUhhSUlNdnhoeDBwT1NMOEhFWHNZNlRJU2c5N1pQMnIyYS1rR21PTUc2Zmpmd1BVNnl1VzRoUHdkTFJTM3BtM0xYYVR4VG9scmJyUUhveUc5MU52N3RJOGQtV2NScWdZYl9WZGprOC1fMkd5bF9hQTJJR2VzT3ZvaldwN0JtcVhhWUNDQ2pJRHNrNHFZM1hjTXA2VFFwaVhSVUh2WjFPNkFUZHZFQndxbkxPU2p4RWp6cUIzbVZpRTZtN1h5b1E?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "BIS Standard",
+      "title": "Secureye Phoenix Series Cameras Get BIS-ER Certification from STQC Directorate under MeitY - varindia",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 2",
+      "badge": "badge-stage2",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWxjd0tJeF9vV3k3bjItaEZ2ZWw2RTlsN0x0Y3RKa2hrSDNWSnZsa2l1dHlxa19IT3VETVdCLVdMWXlsSXdlV0NsVnVkWFhZb0t2djFTWjF0RTZ0bFlLS0o2bkFQZjRONllUS254Y3RnQ3M2enRudHhVLW9SQ1ZFdjlzRjllMlR3VGtXVGFsd0RiaUdxT1VvYzBDU3Q4RHV1cTFDSm90clJuU3M0SE9IV2s1YTFidmhlTU02Tg?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "Waaree vs Premier vs Vikram Solar: Which Renewable Energy Equipment Stock Will Deliver Better Returns? TP - Goodreturns",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGlMWmRUT3Jndy1PcU5jS3RYY3lfSFF4MGE0bW9yeVFtaGszWmROOXhuZ2hRT0xFQ3hCaGV5SVFEZF9uTVRkY1ZPSHE2TFlBQlBOaWRLVzZFaWhwbkY5T0hyLTlkeDNGakpMN1IzQ01peVBYRzI4THJNdktwbl94M1NsOEdQM1VNMC1XMDl3N29iUE9PUVRoR3JEbGU3WVluUkpZYmZQYzgxNUdNZHdqX3VaRElUUnUyZEZPZUVsRGNtT2poMFVqTE5CODA2bUN5SUJQejFic202X0Zz?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable Technologies closes trading window from Oct 1 for Q2FY27 results - scanx.trade",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1pIakZwVmxRaTZobHFpZVZjLUFNT0JVU3VBSUpCM25pR2daNThrcENvNlJBZUNQLXRPLTBIejVQbVM5S3AwalB2ekI0VUVia0dueVZtMGhMV2tiR1dQZ2tnZFB3ejhCZzhiZklZNFlHc1VPY1RUazJCRUhtSzV2SHlCSFg2UTU2RzJPVDUtQVBOWTJhU0lsSzRSZnZDcnNnLVEyT2pxTmNZUzkyMjhpZXhpNUJENDk5dXBBZlZR?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable Technologies announces revised order value for 2.01 GW solar EPC project - pv-magazine-india.com",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaThJLVEzZWhrdHpCcW1ZQ0NRb0pidGZQdWdOTENTRF9NSG1ZUUY5QUtyQVZhaTdWNTUxSjM2NkMyRG4tZ2V3SXUxS1BwaTVESnZkeWFpY3V6dlpiTlZfbFFOZ0MwNl95eDd0MDFhX0VIaWZlQ1NyQ1JwTVlEVWFId3B3UHFvUUxjZGcwbUFLNzBxdzVaXzJVZndJM1FUVWZJbjRyNDFyTDFnMnhCUFNodkVRdmlYTjkyVEZLSUs1MkZPdkx6RDA5SEQyNjFydl8t?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "QCO Order",
+      "title": "DGFT Widens QCO Exemption for SEZ Imports to All Permissible Goods, Mandates BIS Compliance on DTA Clearance - Taxscan",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 4",
+      "badge": "badge-stage4",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHRFcWVoODNLaWhXdE8wNjE2bk1WOEhTQlBEWkwzTVhSeW83YnB3SFBTaHJ6NmJYUnlIVVdrSkFITHFPT1VLSDZ5R3I3bTM4OTJTTkUybUdhaE5LSVB5Y1RqdmVxVUJtbzJzYnVnbmstQnRJNjFqaU94RlV1Q0R1VU5BSS1TVDYzY1I2ZHFBMm90cDNLMjk3NXVSbGR0bWFOWUdaQk5BSk9LWUVRc29IRnFDTkt0ZlZ4ZU5fcnJicUtVOEY3UkhyeDVSR3NYQ21haVd5NTNuSmkzM3dmb0VjZG1ZTzR3bzlhTXc?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "Piyush Goyal announces task force for toy sector, targets 5% global market share by 2032 - DD India",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXlxTVNJanpZM1lsTUp0NzZVUi1vZ1c0YlVHVHQ3M2tDOVVwMW5KdjNUd3owX1hyMTZvLUV6Z3UtS2tsT0w3dTNPOGZsVWU3Y0Nxb0JqSTMwZWVMNlBuUXkxQm1kSndLTDlqc3drUzUwcWw4bHV0eTVpTkEwNkY2clVobC1hVDh2N0FqSV9wYms2UThjQ0FSaXdVM0QtaUZuZGdTNWhKOVFIb3hoMzNfbW4waTZ1WGxf?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "Re-rating on cards for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies - The Economic Times",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: HAL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "HAL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQzB6QjZ5ZVZsdHZsY1ZlX1NXZDFqeXVfNTdvcmNoUGNZQVNwSHJSbHFWUlNyTDYzVV9iYnliSFVkcl8yMkdObHp2dUxWYXBPRkRQOHlnUjdPaDFZbEdLYUd6N2tPcWZ5bFRJT1pXSm1qamdUMXRzeW1oT0ppRUdjQURCNGdUd2xUYmMteldWUDBjYlBLRE9pT3paWTRyZWRUdGNJRVpEaGN3YlBTa0Y5WFNNanJLNU5jWERNNmV2OGM3dDI0aXpZenlBY0l4Wm1QVjFZUk9iRFh0STd3THhjeXZVNlRlaHQxWXNr0gHwAUFVX3lxTE15WnM0RUZfcHhYcVZoa2IzN1dLWDJPblh1WVJPb3FrV2l2dkpnVC04bnJuVzlNeUJsM3BLRExrOXY0TE5TdG1IRmg5VGl2Qk8xa0d6dzJzSzFKMWNQN1prY0UtU2V4Uk9DNDZXSUo0LTdEZkdNN1RIaW9FcmtJQ1Z3ZTN3S1R2cmZjc3F2b281ZXU4ZVRYekp1djJUd25WTTcyaVlZeWk2T3BWMDBfNzlUamRGTXZhbndKU0R3NDczb2xiVUR2NjJYZEV4S09XWnAwdEEySWs5TXVDMjdzOFd2SHZpbWNLNGw1UXI5TUNCNQ?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "HAL Share Price: Jefferies Sees 43% Upside on Tejas Mk1A - univest.in",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: HAL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "HAL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sUzZwRDFwdGZYcFFPMHhDMzZFeEh6ek85V1hnQXF0RG1qZm9SU3RJWVEwVk9hc2RySmR4YXdIT3dCV3lxeklwaWx1Ynp1UlVaVWxqdnJMME5BcFdBaUFxV1RjTjN6Q042d2lVNmJvc05Od2JZMW5j?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "HAL On The Rise: Jefferies Sees 43% Upside As Tejas Mk1A Deliveries Near - NDTV Profit",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: HAL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "HAL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTBLTm41bzNaRnBPY2lPTHRtT20yTHM2WDQzMWZTdkpxWEVTTHRGZ1k5NVN0VXh3dWtOWWR5U1Vuc0xtSUtIT1M2RTBUT0FWRmVCYUJxckx4ZUlNX3MtaHI1ZkVhZUNQVG5RX0tIbUx2RXdkd2lvM0ZzTlFRZXhPRlpCdnk5MVZ3bWE5ZGJta2ItUndyekNYRVFDVFZDUV92c3RuQUpzRGl2RUJsdGhwdE5KQmZxX2lSSmR2YUVjTThLN2FhUEpFX1Bjc1g2SVk2RmfSAdoBQVVfeXFMTjlFdXBPZ0d2REdCY0xTdkRGME1vTWlObnBRZmgyMFlqRW5UVnRZQUFQVXItVWhyNWJDdzlRcnBzN0oxaG5JSDVBMWRBSGZ0amZDd1dIV0ZaR29GZWVwR2JmN0gySDRYTGhHWmdPMDVaQmJCS0NtY0thVEpUek5NY1JHSWNFUTlhY3JTOGpVS0llT3ZhUXI5Z3FqZmdBWHlXQWI5QVlzS2dYNDhSTTZreVlqaG5XY0ZuUjlnWnNRV2xOcldkWWdmeFNMMkIyWE5VQ2xvVTF0TkYwOHc?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "Highway Infrastructure jumps 11% after winning ₹154.6 Cr NHAI toll plaza contract - Alice Blue",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMW8xQ3RYT0UwTU1sS0RnbkdJQm9UWnJ6SXo5TVR0dGVESHJDelRYeTdxTTBCVkRyYzh6NjNod2RTam84UFR4RXJ3Wnk1cXVtSlkzMzU0czNxcUxueTJGaWJRNk1xNHVaOVhBd2FuSWFxZFBrWElaaE55by1KbTZ6U3k1eUhtamlVaUIxSHItRS11R25GcWF3TXItZnZLVGN5RGlod3pzLV8wZkdOWTZkX2lTTDY4Q2tFc0RjWUFOTFQ?oc=5"
+    },
+    {
+      "date": "01 Oct 2026",
+      "category": "General Policy",
+      "title": "Ethanol Blended Petrol Programme - pib.gov.in",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vRkFjX3pYLXRIcjc1QUFOeHc4b1ZCNHFiUVFtVjFJMDlraVl0ZkJxd0NWb0NBUEY2LTZXR2E2WkdVbFFIcFJBRWhuRUsxemFYeUJpRkg0bjEwaU1udFF0XzJQd1dXNGlaWG0xZGdJYjZvdG96X1F2bkp1Yw?oc=5"
+    },
+    {
       "date": "30 Sep 2026",
       "category": "General Policy",
       "title": "Four semiconductor plants to be ready in India this year, says Ashwini Vaishnaw - DD News",
