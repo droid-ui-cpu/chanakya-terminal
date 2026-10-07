@@ -640,6 +640,83 @@
   ],
   "signals": [
     {
+      "date": "07 Oct 2026",
+      "category": "PLI Allocation",
+      "title": "Dixon In Focus As Govt Reportedly Plans New ₹6,000–₹7,000 Crore Telecom PLI - Sahi",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: DIXON",
+      "stage": "STAGE 3",
+      "badge": "badge-stage3",
+      "dynamic_tickers": [
+        "DIXON"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXdGOVlZbVQ5alRad09tbDJNNWI5NVJFaHFFazdwTUszY2h4blZMSGtUbkpqSkhULVE0bFE1dmRjV0hLckVmMkJZTU1kbExEVUFGTkhfanRNWlZfM3dzOGpjNFZUNlJjVWZSZDV6MGhqQnNYLXVJY1NzeGRYYkVWTUNkcFI1SDNVODNjcEJlb0xtbTB0VUVlQmViTmM0ZEVv?oc=5"
+    },
+    {
+      "date": "07 Oct 2026",
+      "category": "Visit / Inauguration",
+      "title": "Union renewable energy minister Pralhad Joshi to inaugurate Windergy India 2026 in Chennai on October 8 - The Times of India",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-stage1",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQ2J6Sl9TWnpHMVdHemNOdXl5NzFjMWY3SDFPRWh6TXBTYmlXMnA1TkJHajFYRUd0Nldqb3FraHh4ckgwdGtBa1lEb21nS0hLclRVVGZpcG1MT1k0bm1QVlB1NU53eGItZGR6VDZ5bEgxUndraWxILXVUaTBGV1BnSWM5THpxQnNZMjRLbUpMMUs2TV9MemtlVjQzS1llZldxaWhFOGZCU25wRW9Gem9qZzNUSlUtaHplaUpvYl9LVHZXclRwazhZb29fTXRzdmt0T2xLR3g2MEQzVEZHdVZtN3RHaHhZbDh4aVp5ZW5kdngtZTBxMldpdHFsbElJU3ZnRks0OG4tQWRCSnRmS3JwZmxTUFNBQnJy0gGeAkFVX3lxTFByRGNhaFZ0ZzM2UWN4SzdCVlMzWUZZY3RPLWFjR2ZTY1FrbTJaQVRFNVA0QmxrQjJieEtZaU5KdEpPaVYxeTNoLWFqbWJySllnVWdEM3BYXzRKeEZFMnNHX3RxSVRNWnhWMGVkT1ZCamp2cFRkRmhoUlh0YXg1cHJUa3IzeVNuc1VwaWhuaXJsUFhYYW5kWXZHb2s4bjc3bmhFTHdydFZ1ZGxqZVFWQTd6d01TVEt3d3hrWC1Pc29XWlMwTUp4a2ZLV3JHNTRKalRzdDRuY2pQQ2hrU3JzUGRWTTJ5SDZ0NndjQ1pCT0xrUkVSZ3pXU2ltejMtTGxPODBkWklVeHRsM19xWmFGdmtnTjdtNnNBWGNEdThjdlE?oc=5"
+    },
+    {
+      "date": "07 Oct 2026",
+      "category": "General Policy",
+      "title": "Adani Green Energy, Waaree Energies, KPI Green, ACME Solar: How renewable energy stocks performed on October 6 - Upstox",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNczFwWFdZZXYtV0tKcEJMN3dsZ1ZiQ3VhZ3gxbGc1cFhPVzFYYzZ1RGE0ZEVSQ3ZEU2IxZ3FENHFTVWoyMFhXR2NGbmJFMTZMa2otdldQR1AwOUtpUnRsd3ZUcXJTRi1fVFNjQ0ZLbnBQNV8wbmZCeHRUb25xcS02Qm1EU2ZEV2o3NmEyU0ZxdkVOOXdsQWw0UVZWTnFWbExZQjN3MlV6T0NvdHJXSEVLNlFCNThBMGdLNkNMZ3czNjJNd2l0ckY4MEo3R0JBcjBHSEdoaUpodEExeWF0dzJJeGVhY0R2a24zNExYM1lYNTZlMHZnSnQ2YlkzdlE0ZldMT2NoMXcwNGQ?oc=5"
+    },
+    {
+      "date": "07 Oct 2026",
+      "category": "General Policy",
+      "title": "IREDA Signs Agreement With MNRE Setting Strategic Targets For FY27 - Sahi",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: IREDA",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "IREDA"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVFZRUlKUXc5SEo2U1lOSmxybnNmQ1ctUGZSRjRtVzBmNFBaN0hYdUxBWnZQZncwMnlsU05DRi1oNG1DR2V0bTgtWGZkakFRbVRUc1dIY2tGdXBSd0xNc0NzR1VTQ2d1ZTcwLWh6MGhPdUoxUHp1VUNzclJQZFBJTHBDajdDMkk0MkZSbWcxSlNMWTBjcTdF?oc=5"
+    },
+    {
+      "date": "07 Oct 2026",
+      "category": "General Policy",
+      "title": "Stock ideas for today: Kotak Sec is bullish on HAL & one more stock - Business Standard",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: HAL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "HAL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXcwY3RXWGNnUXJuT2RpOTRsTWRvbS1WbWFNdmhFTUo4OV8xQ3p2V0hyVHlqT3pJWWNKVEQ1ZV9lXzVkeDRqRktZVjlQZFVtbUVkenplWm1zMkVScVFoZ1FhTF94TjRBYi1WTER1UFFLRi1heWdQSU9acWVxcVlqdTYtSHpIdnB6eXpYSjFoeENwVnpScVhuQnJmUWRrYWVZQnpyai0zOENSSW9VUHFBaEtISUNQSmprUFhPeTJ6WGRMWGVmRGxfSUdwVdIB0AFBVV95cUxPWmZ1a2JGVGV2TlNUcUNxemswakVhUHNYVWlJNTY0ZXJ6WkgydFM5anJDYWtMdGpaVzJTQjZmeXo0V3BNUjZQNGtIclFwVUJHMVdZYnl1TUpERUx2RzR0NDdaVjJQNWtsTHh3akdMWV9UQTJvQTJQRFNwOW55VmF6RjY3OEJyRFgzNlFLb3BPdThDNl9Jc09oOHZGOFFyZHRxRTRDUEh5Rl9GLXNVSnBKTGZFRjZaWVlmQlU3VzZBNnRNU2xwWC1mSkNYZmc4MFZi?oc=5"
+    },
+    {
+      "date": "07 Oct 2026",
+      "category": "General Policy",
+      "title": "HAL, BEL, BDL, Zen, Astra Microwave: Q2 results preview, target prices; top defence pick - Business Today",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: BEL, HAL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "BEL",
+        "HAL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzMzRWQzcGlEOXNHVjNWUzBWakg4SjMyb3EwUXVOeEJ0dFdjZVYtMzFJdXR0RDdqMEhqaTAtamlEWm9hY1lLSGU3M0FwaDQ3YUVGejJTZFNpNzVwWFpfdlhkX3NWZXBXSGMzZmpPTjNrVW1waGZSaWNtUEtRdWswWEo1NXVSS291QW1UMFVDRVVjUXlEUnRmbjZQOEJONVVJbldTWGtzU0ZBN29KQWh0WElkNE8za0U0ZmZxUWpqelB3ZXVrenhIR3pkUVR3TmVQM0dCMF9WVE1jZ2VqeUdmVm5LRdIB6AFBVV95cUxNeGFvSWFmZnZ5YTk5UmttdDBYeENYblVMa2RaYXlENnNfOER5b2Q1ZUxsQ2NJMmI3U2UwYk9NcU9NdzBId2p3b0RYOWR0LXBYNGtMVmpKU0JVV2VDbnhucVFaTTQxbk9GNXJBRjdKR09CZGIwVHI3bUVoX250T19LVGU1Q05fOWxqZHdSbVE0b01GaS1NM3p1SFlITnZONE1GZnB2a3RnelloN2pfbkdKUG5fNGpIalM0WGFiOEk2THZ3emVoYl81NDNiR29BTjBRUm9uOW5oaW56UGJBYkZ2cUtYOWNabGhF?oc=5"
+    },
+    {
       "date": "06 Oct 2026",
       "category": "Visit / Inauguration",
       "title": "Pralhad Joshi to inaugurate Windergy India 2026 in Chennai on October 8 - DD India",
