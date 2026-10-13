@@ -640,6 +640,123 @@
   ],
   "signals": [
     {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable Technologies Secures 5 MW Solar Project - SolarQuarter",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeVhHNV9hMjBuY0R0Ulh5R0JtT0NZSVNYYVRmNDZfYmhucHNqS0w3UWZ0Yl9uUUpWWnZwWm5ielF6VGNPVnNrTkNmZHZRNHI2dmI4ckFzcW9uZlhGVFVNTzAyQ2t3WXREd253ZWh4bHROQkM4Q0hiaU1rUEstcGduQW0wR0lndGQ2NTJCektqSVR1c1ZTM0pTLVNwRjRDdHVUaW4xUWtWS05RR2w2MThNQ0h2VmxrZ3ZhSmhWMVNkTmxWUHNpc1poTVVnVjk5UGswOXlOeUVvNUhPTmNXangtNl94bWhMWkwtN3c?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Adani Green, Premier Energies, Waaree Energies, NTPC Green: How renewable enery stocks are performing on Oct 12 - Upstox",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: PREMIERENE, WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "PREMIERENE",
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUzBadE9zbkVCcEhTMzdaNXNyTm51MFMxOHJCSHFwbzFIZ2hlM0xVeEtJMHlNRV9CQlJHU29fTkxtTEZEUjctRXNXV3NlemRnbnhCTnlFX1IyRjVYY2Q3d2tCM0RlRHZDLUMwVkpSN0lMZ2lTRGxDd3FubWdtYkpnbGZSNUFCYVhQMFFLbHRjRHRmSTFtc3J4NWw4NnJjM3BYRU1iT3plNkpUeTZtVDJFM0VFSC1ISDIwb3U5dGV2UHE4OTI0ZmRObHBCNl9jUmZxVERVRTZvcEVvcVdzMEJfZDVob3FKbm9rV2xsT0hld3ZpSnV5dTVfUkl3?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Piyush Goyal says India will become global car manufacturing hub, European firms to follow - Livemint",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQelZTR2E1WkRuRS1PRUJGSVhTTk5NdFBGY1ViYWZpOU11MjZrV3llS3F3OG52Ukk2TWtycmo5M1dreklsN2ZuczgxNFlILVZNZUxsWXdTNm1BNG1Xd3hONjZuZkRReGJGNmRGWUJWOWhMUXN3a2lLTzRhTUhiVDhDYk1MMGp1azV5bGdtbTJZS08wVFV1WGFpck1SbzU0SkVocTRXLUhQTDY0akh5MG9OSTZsUmYyQWpiUy1ESVR2TUJvS21HY2tnM2UzaUN4R2R4Rl9kdWF2WDNJMnfSAeABQVVfeXFMTUkwTExqSU1GZHpybUxnTVB5dXE5VGZla2ViNUh5WWJPZ293VG5QTktIYlRGUzNWaDNDTkxQWHJWUEJKQWp5WU5jRThseW13Z2s5MjFHZHpyZzh3SlF4Nl9uLWpUWHFUQ0JDd2F3Wk02VHNTUllhdkc3TnlTclBpcjBXTldXdmZIbm1CMXJTNXpzSG1TRmZRb040SGFxNnBWejB1Vml1UmYtRXpQVWYyWFFzQ2c0V2FpRTlYOF9oVmtTVmRpZ1pDYTN6OEE4dVU3Z2VaTHBJd1JpbkwtRDJoMk0?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "FTAs to push global carmakers to make in India, says Piyush Goyal - Business Standard",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGx4Ml9BNUw1Y1Z0U1QyZ3FLWWd2aGowMDUzME9wTTlfX0h4TlZURHU5S1NTMzNUZVJ4TmUyX190WEN3YWhPVEgxRWRhSFRITGs2Tmtia0kxMVczVTh1T1ZnXzNlVVFrS0NJTzBod0lzMWw2RDFrRkV1M3JDaFh5SzlLZ1ZvRmg3b3lpSTJsazEyaFoyTnVMWVo3NFdzVjBOYjNmM2VmUXNmaFdscnBUWURDNU1iQllWalZvRXVWWjZwaU54dEpiWE9KNXp4cDVxV1lrV2VxZ9IB3AFBVV95cUxOdzBFbUViVDl2OU1RQklYeEtydlMwRWNXSU9HNm5QNDdVRlRiR0s2Yk9xTTg0ZUtXbkxPY21OYUd2RnFEQnJxWWQxODJWMjBPT2V2ZldISlRFaU5BejBqWDYwWFNOX2VuM0k5UzgtYzNDZTdTWWhSbWhxVE5BdHhaWDNXRGljMlNiVHNaaGtXM3JhMXBDcUtnNFhUbHo1NWQ2SThEdkZZWjdMOVNXVWhwNUh0b3FOeHJUWmlRZm1sRFU3ZVhwMElBRkw5R2FwMHlodXV3QXlFSG53UV9I?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Zero-Debt Defence PSU Stock BEL Falls Despite Rs 1,081 Crore Orders Win; Buy-On-Dips For Rs 530 Target - Goodreturns",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "BEL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa18yY2w3RlVPYWxwcDZxQmZMY2ZGTUtIdWdzMjlHR3BuWUFQTnFEcF9oZDRKd213MlBSamNIMXpSTUFCMVZibkh5YlVCWTlFUC1mLW9FWGtWdUVBak5GZFVMbTdfNVpSbUJfWnNfTWdpMVF1S3d1cGVleUxnWVo3VjVHV0ZGa29ZQ0NIR3NTeVVOajFXWUg1MHFHcm9EOXhrRkZFaFZMWVRhTnBfTHZnMjAzUVVUaVkzMl9rRkM0MDZsUnQxaDRpT3Z4RWcxQWdaYWhTODFlQ3dOQQ?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Weekly Recap: Rs2.54tn order book and Double-digit growth, 30–31% EBITDA - TradingView",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcVN3dVRGRzBLUzltSkxNeHF1UmVtQ256VV95NkJ4NGY4Z2FOOEhmdUw4VE05VndsaDY4X09ZV044dGhXcWl4VXFEVEF0Yi04Ql9nbG9ycHJiT1k5MFFmTk9xQ18zSDBDRHBLSW03SXlBV096TmFRWVlZN3pnSHZTcW5pTkVIYnVCRXNVS2pXeEozUWdwMEU1d1N3YWx0UFBfTnEwQnQ3My1KM01VM2RfdHJlb1JfZ2FGcjRzSEFiaTVSNzY5OFVZSFMxVQ?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "NHAI to empanel IITs, technical institutions for proof checking of critical highway structures - The New Indian Express",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY2NCamlkdkxBUG5ybnJCNG5hZEY2NndmV1BhbjF0d2N2amV3LUJ3bUxWQWtwQ0pRZW41SmdJZk90VUVBdklVLXFXYjRkTkRjakhTd3VNUVRYZWEyMVNVZXZWdDB0SjU0ekQ2Y1Y5cFVuZWEtVnc0YjZKYmNHcnJvUXkxcVphT25OY2RDWDczNjNldXRSTGprN29KWlBwV09FVktJUklrMzJOb0RhS1FELU4xbm1NNTZjLXN0RktIOUszMDk2R0RUQzdmWHFCVzlqQnIyM3Q5Q2lRTXl60gHqAUFVX3lxTE1iMjBrLUdUTmdfdlpKOFczaHcxX0Z5MDZzbG9qM0N6U2FORXFzSG1oRWtndlFJR19oRGJLRXVqUlZNVkFfWkJmS2FTT3AxeUJ3QkRvQ1QxaWNWVk1ZMWwyWlB4bE1BOUNJblNwRDBlZUFSelpDTWZxMXc2Z0Z5OTlfMlZralNxT3YyVmdFQzVLWUIxc09yenNKa1hiTldtcFVTRVJjU3lkQkxQLVd3NGdxa1hycWliZXFsU0V6SWdaWHhGTXNZazgzV1loZk9ZcENSTXEycWZSMWxYUWJiNnh0M2Jqd3V5aFlEdw?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Hazoor Multi Projects Secures NHAI User Fee Collection Contracts In Karnataka - Sahi",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1RCYlFDNzhxak4yV2ItbGF3QWhEQVNPZ19zWUE3cUdEN09RRHhOdm16XzFlR1NJUlJiaXlhSkNNWmhyenlNUGFxcmtQN0h5azI2Rm9fc0h5dUxUVWlJSF9nM3pLNFUzRWQtQmJTQ2Q3ZTN4RFYzenVZZFJOdVNualpRaW1feVAyZkVxYkpWY0tGaWdtam03dFZaeWNOc2FrTkFQQkxqYU5yaWZRSnE2TA?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Hazoor Multi Projects Climbs 4% on NHAI Toll Contracts - Equitypandit",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSV9HZ2Jra05jaDVUNlVvOVN1V3hwcGVMQU9MbXROYU40UGlIaVlhU3RhUmJkMkdqbXRERTk5OWN5R3NsbnZ0dXNZX2owR2tlN1BaOXE0bktCVTZtWHB0aHdEV0Zfd3o4TWpMdGR0NDYyTGJzRlB2aTN3QXNvcGZkS1d0d0FVTEQyNTRz?oc=5"
+    },
+    {
+      "date": "13 Oct 2026",
+      "category": "General Policy",
+      "title": "Ethanol Blended Petrol Programme - पीआईबी",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vRkFjX3pYLXRIcjc1QUFOeHc4b1ZCNHFiUVFtVjFJMDlraVl0ZkJxd0NWb0NBUEY2LTZXR2E2WkdVbFFIcFJBRWhuRUsxemFYeUJpRkg0bjEwaU1udFF0XzJQd1dXNGlaWG0xZGdJYjZvdG96X1F2bkp1Yw?oc=5"
+    },
+    {
       "date": "12 Oct 2026",
       "category": "General Policy",
       "title": "Waaree Renewable Technologies Secures PSU Solar Project | Pace Digitek Bags Major Delhi Energy Storage Project | Top Buzzing Stocks Today - Equitymaster",
@@ -1724,107 +1841,6 @@
         "BEL"
       ],
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzh6eHNHYnNLRG52QmE1cjlOSTh3SkJtdExXVC1fdElhd3M2ZzljdFFvZEtRTXU3cjdGeGpESEp0Y1J4WmlnQjlyY09fWDl6OWF1eEd6c2lZaVZaMEZkZWtDSHh0cXpWTHhLbTBGTm1MZ3M2QmlKaEJBYXpKMVdjUk9IeGlYRHhqZE1YSno2b2JQalU2RUNZM1BYT0F3Uk9QeW55UW9MQWtabHBhWHBpWC1US3ZJbXlKbTN3SkpVc2hTQnRCTDJYUDA1NEY?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "HAL set to wrap up original Tejas order; Mk-1A deliveries yet to begin - The New Indian Express",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: HAL",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "HAL"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXlNVjJDTjA4cmNTSWNydFAtNkc5YWduelIxSmNrWlRLZk55ODh5TzNZUWo5QWtlWkRIeUJSUUxKLW9Da290U2h0eFpBZGNhQ2MzSkFES3pmOTJMOUpIVFRNejVvRWNvc2xGTEIwNXRJLTRMSzc4UERVV3RrNFd0aGhaeHo4OWNKQXpsUURCVVpuR2ItbHJ0SlBGOC1jRmhvVGZQb0kwR0NYOFZ0SV93bzRUN0lVRVBtZHB0RtIBygFBVV95cUxQZk9ueHp0VU9vY2hNaWgyV3h1WUJjQjU2YkZHQXJiZGJNY05NRUNkV2gwbW5KTGZsekRlVXBkdkF4bC11bGZKdGEzZnhpaEV1X0RyMnVJU1UyTVFsV01razRNVGN0V2JVSEFVWEtXRklaclBYVVUyZ0lPMzdwQUhCTm1CMkdMR1prSDVWNWZZQ1BucnVPRmFfYWVkdy1mTHc1TUVoSHdIaFIzOHo2NjNDZDBUU3pNOWs2WldQMVpoVHNnVDkyN1R3NU5R?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Innovision Ltd wins ₹4.2 Cr NHAI order for toll collection - scanx.trade",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo2Nlpra29HQW05Tk12TUlRNFZyblRLZGZRMXFtcU1BOVhXOTMzNGRIMVczNVdXdGtYWndMOW5XUEZtVVZKZ2hlcFdDeUQyaHgxX3prSThrRXdyajV6WWRWLXpuMHd1OUFGcl9ocFZITTk0NHBBd3BQdkJlTVN2czA4NFNCZ3RmcURiZFJzdkF0ZVJvWTJJdVFWMy1nU1lsU0J1aUQtZTRKRWZnckozZFN2Y2Q5M2c?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "NHAI terminates contract of Arakkonam-Kancheepuram builder of Bengaluru-Chennai Expressway - The Hindu",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMEpOajZQb2dsdXRqc1ppN252bXpBYmlTLUNPWm1nZmQ2VG9WcnFxSlF3Y3A3eUJMclZ5WEtMLVNyTWgxUUlBalE3QVdZVDJSLWdNWm95TnVydmZjbkZsNERUam5pUlpZYWpFMS0zSEI1NldBZUhtTWpyajRXcFdsX1M0dlR5SmRXSFF4UzFkTS1aeEtwc3V4N2MzTmNlN18ydWE2TVJtckdSY0hLNk13MTRwWlA3LU5YTUNLdVUwaUw5eDNQbDZVLUlpb1NiM19WSXlETmx1WmZUNGctMGdSVVg3VVVJbFh5V2Fn0gHyAUFVX3lxTE83WHp3QjZuMUNleXdwY1hMdDNQdTVGOHV4cVZodlZCanFMOUV4VzRmSDRoUkI0cVpNVkJfaTBKVlRBVDEyRVVIejFsMmdtLVpPVFNRVGVCenc5aVhCdUVCcnVuaWZmeGFiRFRnSFdBVjktaTk2SF9QS2VTdlZLRzFqTnFSOGlTd3hUQVJpcS02andncE5LWWpxQzFpT1o3TmtvSlNrLWNMYUpzTDVteVQ3RTJ0MkJ4aXlLdHlXMjhfUnBpVnY0dkNCMUN5MFo1cWgzLV9RTGZicEZYVzZZZjE3U3VYU0tmMThYY0c4ay1UYy1B?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Annuity Payments Received By Highway Concessionaire Under Concession Agreement With NHAI Liable To GST? Supreme Court Stays Coercive Steps - Juris Hour",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTlCN1dxV3BqZFpvck52ZHdaQWZJWWRWQlZmZlpFWEZ0VTB1aDdLdGVSc1oxWVhDY2VrUWY0M0RoSDhQcnZsbFNSZzZSNHpfR3NCRGlJUzIxb0xKamFoZUlTbkFBYWFDbTByd3Nud2pyc1BLaE5VNUlFRGxwTnZhcjB0V0VIeUJvSjJGdHJ0M1hzWENLRTB0RmJvZGF6ODZa?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Hazoor Multi Projects Bags Rs 44.23 Cr NHAI Toll Contract; Stock To React? - Goodreturns",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjIxTXVnMUNCSTV4b1REZVNaUWRSc2x1OWQwTjZfWFRuVS1ReUVpZXNaOWhkVF9DWTZzR2VPSElJdGhNSE80WEJhRU92M3pkT2FkWFkyOU9YcklndlF5aUhIZjJJbFNyVEg3RERYZ0xZZlF0OHJQUnNRTWQyMG9UWm1Ldm5IQy1PLWNLSmlOODNFcWtNbVVOMWUyMDVtbzJ6RlBDUXZnZFQ1Rnh3SVhxZHliZEtvRnhY?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Ethanol Blended Petrol Programme - PIB",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vRkFjX3pYLXRIcjc1QUFOeHc4b1ZCNHFiUVFtVjFJMDlraVl0ZkJxd0NWb0NBUEY2LTZXR2E2WkdVbFFIcFJBRWhuRUsxemFYeUJpRkg0bjEwaU1udFF0XzJQd1dXNGlaWG0xZGdJYjZvdG96X1F2bkp1Yw?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Union Minister Hardeep Singh Puri defends ethanol-blending mandate - The Hindu",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUxtOWl2anNBU0VPT3JGaHRHOFB4T0IxbkpsTXljR1IydFBJTWJ6TW9tSGFGSm1oQ2ZyckpiaVBGSE9hZ0FCNmYteDNWaXB5T0N1OUVfQnpDWDk2Ny1DU0lSbFJJY2FwaWtGcHZjckJ2T2lITVhTRHNEVWltMThJLUFUMFIxQ1hvRzRYVHFlOTh5a3lPUS1mZWtubmpBbndmdnlpRDRrVEVYSnFFbGp6WWpnTTJYaHBPTkHSAboBQVVfeXFMTUFMbTlpdmpzQVNFT09yRmh0RzhQeE9CMW5KbE15Y0dSMnRQSU1iek1vbUhhRkptaENmcnJKYmlQRkhPYWdBQjZmLXgzVmlweU9DdTlFX0J6Q1g5NjctQ1NJUmxSSWNhcGlrRnB2Y3JCdk9pSE1YU0RzRFVpbTE4SS1BVDBSMUNYb0c0WFRxZTk4eWt5T1EtZmVrbm5qQW53ZnZ5aUQ0a1RFWEpxRWxqellqZ00yWGhwT05B?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Centre has ensured citizens are not impacted by fuel price rise: Union Minister Hardeep Singh Puri | Akashvani News - News On AIR",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjc0anRtRkY1Z3NTN2dEMFZ5VTB5VnFCaElJSk9TZmpIQ3NqNFhsTjlaY04yYkI4NGRzd2pCcllLeDJuWmE0YmZFakpTTlV1TkV1X3pUQXNaNHBhbFJOSFZvTklPNlBnVC1mTExrS1NtcU9objRWZkoyT1E1WFRoY195UEJCNDhwNkF6ZV9fYW9HWmJlbHJGTWtuaElMUWcwNmhSTUZoSHM0VnBza1hxRGh0WFIwT3YtSmdEZmE2RDQ?oc=5"
-    },
-    {
-      "date": "28 Sep 2026",
-      "category": "General Policy",
-      "title": "Ethanol Blending Kept Petrol At ₹94.77/L; Prices Could Have Hit ₹125, Says Govt - Sarkaritel.com",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZkZRcW43enZkRmVtTlV3YTZfV1B4ZTBhbjNqdzVoRk95NTh2RzlQWWFHMS1UMnJqVmUzUlNzQlpBTGJaOTdhQUYwOXJST1VHOFNqOXlITWRCdGVCNWRnODI0RWEtUlNpVExKdklRQXJwRDVlSDJRLUlQWWc?oc=5"
     }
   ]
 }
