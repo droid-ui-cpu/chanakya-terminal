@@ -640,6 +640,41 @@
   ],
   "signals": [
     {
+      "date": "21 Oct 2026",
+      "category": "General Policy",
+      "title": "Government approves 29 more proposals under the Electronics Component Manufacturing Scheme (ECMS) - Press Information Bureau",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZ0hDUnlrUmpYTWl4TE9VemtSa00yYWVaWHF5NW83RTlNTmNCYm5oTXJmRTlTQ1pKUm11OHpRNEV1eDNOeGN6SkZnNVhjNVg5MGItMWYwdlNETFRGeTRfRnRsdEVMU1Uw?oc=5"
+    },
+    {
+      "date": "21 Oct 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable Q2 results: Profit falls 30% to ₹82 crore despite 37% revenue growth - CNBC TV18",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS20wSlpGaERLb0x0dC1Jc0o1SWFHYi00X25MOGl0U3Z6U3pDRkZDVjNSZTJHSmRCSVpTTU56N0gzYjhiWmZhWkNfVXRPRDQzTFVOeTE1M29ycVlGcHprMmJhdkpUNnpWWW0wbmFBbm5KNzhWUnBnYkp4ZmJiRXlBenNvdWxfWl9yekV5VldmSEswdnNDWlhrcVJlLVFzWGxlMzZnN01qQ1FGTnFLTG5sWVMtVGJFemNWY3JNT2xSUDJPTTRXTl9USVV1ZzRfT0JXZ29V0gHYAUFVX3lxTE9TTG5NSV9wNzZQT3Y1ZFRvZjlOTEJzUS1xcFVwRTlUS1dHSi01SmJ3QkdSOTB5bWQxMEdmSGhxMW9hb1JxQnVDTFE4VWRNWEszTUdUMU9YU0lKcjhXYW9wc2VaZjhUUU01Nm44MEViSjlHMXlpOTBfWElRMVByVXpTWTJhV2NlbU5obGh0LTM1NjJUWEVoZjRHX3dRYk4wdDNmQ0hJbWtuV0lPc01TczZzWTB2LVpzeEZBQXpNNEl3QzVZZDZKbFlMVjZ3Qkk3MmdmMUNNMXc0Xw?oc=5"
+    },
+    {
+      "date": "21 Oct 2026",
+      "category": "General Policy",
+      "title": "NHAI Sets Plantation and Survival Norms for Highway Completion - Construction World India",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTzBrejJieS1qS3h3TXpRQUZSUkNqbHo0cFUyNk8zZ0lqSlNMdXBqN0VqN29EbFlqTGd5QlZQdEx3UVFiOEN1N2pha09iY1U4d1ZpNWlPa25lbUpobWRfaFZfZ0xlUHJJMEE2U1AyRERjc2I1MGtFU3ZwTU5INFR5c3hLN1ZPRU1GcFZ1djhwbUlyaTJ3ZFBobUNlTVVyMG56djdvTFFQZGk5RG1PVDk1Q3hoUmdOeFdlcEswM2VKcmVUUUhYODNYWm52eXgtTnlxekpabG1TRDJfTDZmZURwd1VrVDN4QmJQbEtCNWxhQXJhZw?oc=5"
+    },
+    {
       "date": "20 Oct 2026",
       "category": "PLI Allocation",
       "title": "Meity extends deadline for IT hardware PLI application till April 30 - ET Government",
@@ -1800,43 +1835,6 @@
       "date": "05 Oct 2026",
       "category": "General Policy",
       "title": "Govt brings smartphone screen protectors under mandatory registration rule effective Apr 1 - retail.economictimes.indiatimes.com",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcmg5ckNXNGpJRXRzR25IQk1NYUtCMi12azFPZ0xrdFF6M2YxTVVOejIwTjZzNWJrUjRHOUZtUGMxZHB0Y01ibkJVbWdmdy1vbGNSckZ5UTItMk9sN2xObGdIX3pZQ0pzUHFUQWRJV0NLRzEzV2N1SlZEelRVRHRtTWxwU2MtWTN1ZklsSU5FODltQmdWRXpKQVoxT2ZzU2RMbEFETmVXc2pDT2Q3SlRrUU5PZlpTeTdxWHhJTEJUajB0WGpmZFlJZ214RGkzVkRfQXJZYUV5c2RoRjE4LWEtVjdQd3p4azRkTjBZbXk3bVYzR0FuNF9IS3E5REpncXNKaC1MajBHTFkzS3ltUmhUU2c2akh4VTNiQmtFTlpzTHhKUGFjT0YwRDNSS3Yyc0w3d1BaLUhHNi1Dem_SAcACQVVfeXFMTU1laEpwQ3haeTltZUJNU3RQRU9rTndmeEdIaWNoUXpUckVVb0hULXFTTERaWG9wcTJfLTBqTF9EUHVWSjBSOTl0a2lySGttRnpJTUVfV0tSX0xuREktZ1ptMEpFU2pwT0pBQmdySHZXelRDVURfU3VWdVZqNlNGMlFEbFhNX1c5ZnpvT1pmYXFYNzVha0FkcDNuQjVKdkdWMjZaTjZud0FSVUQ4NE13M2ZZamdTRWFzTGJEUW11NXZhMEhrZjhXUWUwRlA1Q216SlRRVmtjbkpWTThQcVVfcm4wVG54a1VKd3NMbjhUejJPcWY1NXZmZ0Z5cDdmNmx4R2JaUFNZOWNiRmVvV09qa3dvc2dUTVl4UjVIY2ZXOVlfZXY1WEZ0TUd0T3JNbjNFMHFRWVhBODN5UGt4M0RBZFI?oc=5"
-    },
-    {
-      "date": "05 Oct 2026",
-      "category": "General Policy",
-      "title": "Waaree Renewable Technologies (NSE: WAAREERTL) Q-Sales Hit Rs. 811 Cr.: A Closer Look - Kalkine India",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGRzT1daWFp0Qy1vWlo3bDZrQ0VsTFJjNWRKNi04ZnUtYXR0dVAzZVVrdXlLT3d2QnNXYjN5UEhIOU9saUVZenBnd3NYZ0ZPOVI4ZV90T2JrWFJCUkFLOXVDM2dQcUJCUThjcHhKWnFlUVZXVi1tMVAyZFdSRVllbGVhU01yX2NvZ2loXzMtVHo2MlJSMkRMN01yRFd6Z1k3MDVXX3RoaG9iUm03bENkZzZwWUVpMWwxWTdaNA?oc=5"
-    },
-    {
-      "date": "05 Oct 2026",
-      "category": "General Policy",
-      "title": "Bharat Electronics Stock Volatile Ahead Of Q1 Results; What To Expect In BEL's Q1? Check Timing & Dividends - Goodreturns",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "BEL"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMU5TTks2RDJKVDZ4NDVOZTlLYUhpb0d5dVhxcWU5Q1BmRUVCa2xVa1ZJVkZqMDRqblRHQVJCTnNCS053T0NiVWhQSHJmQ2d1cXZlVk5ERTlpT29HOHpuSGlrVWJ0cS1vTDFBbUdGSHpOVjl0dlk1aFVpaWlNWDBReTE0LUdBTWpaaS1DcmR0Q0Z2QWV6RjBrUG9DcXlEbmlnTUR3c3VGLTlXa0pNdHZwWklZekFzOEx5dGhSX28zc2xXSzJfUGIxd1gtS2E1bVFqSnlGbl9XM25TLUFZYkE?oc=5"
-    },
-    {
-      "date": "02 Oct 2026",
-      "category": "General Policy",
-      "title": "Govt brings smartphone screen protectors under mandatory registration rule effective Apr 1 - ETRetail.com",
       "minister": "Union Executive / Regulatory Body",
       "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
       "stage": "STAGE 1",
