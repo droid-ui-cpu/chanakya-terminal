@@ -640,6 +640,102 @@
   ],
   "signals": [
     {
+      "date": "26 Oct 2026",
+      "category": "Visit / Inauguration",
+      "title": "Railway Minister Ashwini Vaishnaw inaugurates two rail sections in MP - News On AIR",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-stage1",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzc1WS1QajVhTDA0VWpNS1FOdWR3YU5YZGdTek5MYTJKekY4YTg5aXpQMUZKMDFSZTBkcG9TVXlDR25aRFY0U1hHRmNjQXdJUWtSOG9QbnMzaDZVX2FGbTF3bEVEZk1hRnBHbFU0TWFiTUdnM3JWUEZqbDFiMlNrVFRQWnJsQUk4RHBDYUZWUmZwQVlKR1FnVGlOSQ?oc=5"
+    },
+    {
+      "date": "26 Oct 2026",
+      "category": "Visit / Inauguration",
+      "title": "Ashwini Vaishnaw inaugurates 'Makers Lab' at MNIT Jaipur; highlights India's self-reliance in Nano SIM manuf.. - ET Government",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: RELIANCE",
+      "stage": "STAGE 1",
+      "badge": "badge-stage1",
+      "dynamic_tickers": [
+        "RELIANCE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdmFpUUVHV2w4UnMya0NkT1JGQm1GRTlUUWpYX1ozLTd1WU82dUNXRHowNDRQSGhWN2diTDhiSHc3VDd5RlkwZDFtQ0xvSXRmN2kzS1ZXX3VzLXZMUDBUQnFoVUN5NVNibWZ3MFNSaTViZGF6ZWowOF9vSzl6cWc5UmhLdk9CMmJMQzlNMnVrczlXQ3FzMXpHYWkwekpCZmJwTnVKb0gtdUhSQWJnTlBYVlg0ZGhRaDdkQUNOOWdoS0lGSU9MNHVVQlZkc0tRUHFnY1I4WjF1UlpROGJ5ZXMtS1J1QU9UT2NhWFVzb0pTUTBPb091eEhzTzI1MnNHQ0I1LUVhNVdYdE9ybXl3UzZLX2VPbVhvcW05d042REk1UWUxQdIBnAJBVV95cUxQVWJvYWlUM3l1RXFkVHpld0ZRelE3UkI5QmVlM09MOG8yalBhWFpFZmRMOHhiS3JJeVdXMWZQdUw1Y3N3a1RfbUFpcjhrdlpCQjN2MnhuV3FOckM2RFd0UVZWeVdLUUQ3NU5jQXZGX2JlV2I3RjBFbmdQOTBiY3BqNjMtc3VpUnY4MGt5WnEtR0w4RDVfUC1FSXBZWS1LSTBURUdyT0o5S1U5dHZEdTlZUm5rOXRBMHRIQUNJdGt0ZkNnVHdUV0dqSF9FYXgxcEF2RFpFVWpna1BYcDhoNUVQZFBOcElxSEVYRTNVNEllNXdTMEdxTmhhbHVLTEZIWmlqMUs5QUFvelpsa3RNZ2lLYlNOaXZhRWRkeFFPRw?oc=5"
+    },
+    {
+      "date": "26 Oct 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable promoter confirms no encumbrance on shares - scanx.trade",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXJ5TmdKMWtNN2RTei1ySjNfLVhCa09iUmcwYkFSb1poWmEzb3NrZzNUdi02MTJkNklCQW9TT0dyY1pibGhrTmQyOGJMeVZxRUREdEdNTnZoUkFXeXY3ZGFMQ3hqUDFScEgwbFJPWV9BZHBQYXRSRUJTTnh2VFBDLWl1LXpuZk0wX0VXSmQxaDMtaFZVQVRseFY3RDJkZTFLZElBM2dRRUtqbDRhOENuc3FSMzJBRmM?oc=5"
+    },
+    {
+      "date": "26 Oct 2026",
+      "category": "General Policy",
+      "title": "Waaree vs Premier vs Vikram Solar: Which Renewable Energy Equipment Stock Will Deliver Better Returns? TP - Goodreturns",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGlMWmRUT3Jndy1PcU5jS3RYY3lfSFF4MGE0bW9yeVFtaGszWmROOXhuZ2hRT0xFQ3hCaGV5SVFEZF9uTVRkY1ZPSHE2TFlBQlBOaWRLVzZFaWhwbkY5T0hyLTlkeDNGakpMN1IzQ01peVBYRzI4THJNdktwbl94M1NsOEdQM1VNMC1XMDl3N29iUE9PUVRoR3JEbGU3WVluUkpZYmZQYzgxNUdNZHdqX3VaRElUUnUyZEZPZUVsRGNtT2poMFVqTE5CODA2bUN5SUJQejFic202X0Zz?oc=5"
+    },
+    {
+      "date": "26 Oct 2026",
+      "category": "General Policy",
+      "title": "News by CNBC TV18 on TradingView, 2026-10-23 — cnbctv:b612f0ab2094b:0 - TradingView",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XQnJrcnlDZUdfMEFDNzBscEpZYzBrbGdyOGYzRGZqa3ZBQktvLVNZeHc4R0loRVpEZTNpNVZ4VG9qUDdwVDhGMFlLYVRVS0txVGJCdktOX2lnTksxdDFTd3R1M0NYaWc?oc=5"
+    },
+    {
+      "date": "26 Oct 2026",
+      "category": "General Policy",
+      "title": "Highway Infrastructure wins ₹340 crore NHAI contract for Palayam fee plaza in Tamil Nadu - CNBC TV18",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXBBSWJMV3FqNzFmaUFzN1NoOTd0OHFOTC1XZk9MVkJ5VFp4c3FILVhhMDVuZGgtaVFUeVU1bDJvczhaSkFtMERLbGVlTE5vVDZQRDZJY3dCaGIwRGwtTXFxejNJU0Qzd1Z0QlQ5Z3lfUUlIdVRZeWxqbXdBZkdXQkZZNFQ5MHdQcUlsVEFYLXFtUmhhYkotdTFETFdHSWVaaFRxanphNHd2UWQwVy1PNVUxSTVkNDlUMjI1NUtZeU5LMm5uZFhfQm9sLUlGU0UzR0w1Umo3eG9mQl9aUzhET2w2MjNHajUxVmc?oc=5"
+    },
+    {
+      "date": "26 Oct 2026",
+      "category": "General Policy",
+      "title": "Highway Infrastructure Wins Rs 340 Crore NHAI Fee Collection Contract - Whalesbook",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: HAL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "HAL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNazN1Y244SE9CRExEWHdxMkdJRXYzTUsxQlNSbjZIVkNwV3diUVJENXBFaDJGaWZEdUpYSUVtdTdlVktfRHk5RlZVZXN3eVc4SDlOaFBQQlIybzdlZU0yclFueTM0U0pWTUtKYVFmRFNKdDFBYzk0RW40akx5QXZfeWRVWkM1S1VjblhMV2I0ejlVakNQRW9Db0Ixd0FVaWZZMEFacmNPYzhyV3l4dzU1QllkTmhqSHpyQnBnd2RYWmFPSGdkUXhvVTVpazNWRjFmUTg3WFZHeHF1TlU4TjVUaDZydE9BakFHS29udjdGLUE3MDFOQnAycHdkd2Z0dw?oc=5"
+    },
+    {
+      "date": "26 Oct 2026",
+      "category": "General Policy",
+      "title": "India fuel prices remain limited amid global crude volatility, Hardeep Singh Puri says - Goodreturns",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWVHMkVQbGlsaWxkTTIwUUtTQlByQURacUpaLU1wV2xxZ3VfODdnelJxWnM3cVpVUFVrcEFWb3o1bDAtUXc1RlBvWnBsbDd5eGNIS1dSNXdNcUdLdXJSVnoyd0dVZmU3OXdVTnpWdWlmcHZ0b0RlT05DSy1ldUpUc1c0Z0JjdXBDeWNaYnVVUGtwRFozaVZQbThUZ1lfdzlsSTlGeW5YUGFHakZoc09zejNIWQ?oc=5"
+    },
+    {
       "date": "23 Oct 2026",
       "category": "General Policy",
       "title": "‘Europe shooting itself in the foot' with steel curbs, CBAM: Piyush Goyal - Moneycontrol.com",
@@ -1746,98 +1842,6 @@
       "badge": "badge-cyan",
       "dynamic_tickers": [],
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PYmYyTnRlbEZvcjNkWUx1S2tYUlpIVFF1ZEV2QXJIamk0enBOWTJIbzdqMWF5ZFB3aUVBazVKbzVFLTdaOGRRU3ZzNGJ6VHdfVGs5NG11NHVmcWtzQUhv?oc=5"
-    },
-    {
-      "date": "09 Oct 2026",
-      "category": "General Policy",
-      "title": "After E20: India's Ethanol Blending Programme Next Phase - CEEW",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoODV1Z2xzS3ZpTVNjOXZVeXE4OUpWeHBLUF9ZaUs1Q2JnQTViYUVaaEpTdnUyUFZwX2ZYZUxBV3ItQ0Q1OXo2aVdJdmtxdzZDQnlxQ2tUbm1qWWswYVU4S0E0VFFtT28wcUlVbk1KZ1RRV2UzQ184?oc=5"
-    },
-    {
-      "date": "08 Oct 2026",
-      "category": "PLI Allocation",
-      "title": "\"India can be low cost supplier of Green Fuels to entire world”: Ministry of New and Renewable Energy (MNRE) director at Kandla Forum 2026 - ANI News",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 3",
-      "badge": "badge-stage3",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYmd6dFdBWTRzVFFZRmhyaFFNRTdaaFJ2TDFhcjZCTHhHUkR1S0ZDeUF2RnRtcXVoQjBCN29SX0wwVGlnZkJCRklxMnMwbXdVcGM5cEFWM242MVhJTUdrZ2xCbUVJYW81dlp0Qkt3UzVGSkpJeTczY0N0aHBxaE5nVkVnOTFHczBOajNwLWNUc2YxVXFBcmNiRGJnWmR3Skd0QUNLQ3FOT0JwV3czR0k5Z1lTdlBHZzJJekxVeklENXJmMDRMcFBKNWIzUGJ3YVFLcVlYbEFXTDZndmpCUEUwdzh4SGhRaHgydGJRcS1rVHVMNXJyRzk0Y3RMckhQa1I3WkkzVE14ZVpWS0lBdzkxeFZheV81MmtRdVJRby1BaWhUSVV4bzNWVw?oc=5"
-    },
-    {
-      "date": "08 Oct 2026",
-      "category": "General Policy",
-      "title": "SECI targets Rs 24,000 crore revenue from operations in FY27 - Power Peak Digest",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hcE5Wbnd1OXA2MkZzOEtxZDNZMjF5bEU5SXBSNzZzVHFXUG9uX052LWRId1BLRXRabWY1RjRWUnFDRGRyM2Uza1FGZ1otSTRuTG9JMkpSejc1aDRuY09DSnJTc2d5dVdfTWRkbUYxdEVWOHFTQ1J1Y3FBM1I?oc=5"
-    },
-    {
-      "date": "08 Oct 2026",
-      "category": "General Policy",
-      "title": "Here's what to expect from three major defence stocks in Q2 - CNBC TV18",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZkpSaGhOV1E5TDRwSnd2aVlDT1B6UmxUa1FMU21pMU1PQ0I1S1Q2d0lIX3pfanQ0TjJINmN1V0dERmZ4cjhoWTFHSF9EcnRpS1R6emFaYUNWamhOZTczOF9FU2xnTHRXZXdDaElkc3lESUhIcDV6a01kN0s5OC1hWldETjF2Uzc0UVpEa2ZYQzU5Q3dBSGVOcV9yRFBSeEJLeFpIUDBwTFVuQW1Ja2NrdmQ1T1c0UExSUHNCdVVqX3JqQXpoR3lhN1M3UlM4ZGVxSG5JSmp4eXJFeDA2VmVPczJzVlbSAeoBQVVfeXFMTXdCNGdJQ2xaMy1GamNkSkpBOEZlNnBGelBYRmFqY1JTS2FvNjdtZXRzZGVVUmt0amk2V05HWm5XME1ocC1XSUR6eWN0ZzJEMUVURlBHNlRyX3VCSWllaUZOakFhOFVwZWE1Q04zNFIxRGE4YTdLLThiV296MUhDSW5ia0ZoYVRJTkJpX21zOVc0U08tUjN3VUo5Y3A1aTJlUVVpNzN4b2w0NDR3Qk1SaHVCTW9oeVdkTUlTcjBpQ3JsdzhDNjlPeFFIRlVfUDBwQUlGVnc2YnIxMVNPRjNxUXpkVlVySW83LWVB?oc=5"
-    },
-    {
-      "date": "08 Oct 2026",
-      "category": "General Policy",
-      "title": "Ethanol blending isn’t a taxpayer subsidy; it’s India’s energy insurance: Government - ChiniMandi",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaHNpSXpFc05vNjBjRGkySWdmN2xSTW1PM3Q3QzZua29OeHl0Um5hemt6RW9rWDE3ODd5YmU2UGNRODFrSVZEX250X0hLQ3B1NTJpZjllQzFrZ0M4N0NJTk9Lb2RhTGRGVDQxUWMzUFQxa1NMUFpMeVR5b0JQc09kdFRlZFN5N0o3OUM0bGZnZkdydjJUU3RZZktfSTNoV3N5d0dBVlpIQ0poU3M?oc=5"
-    },
-    {
-      "date": "07 Oct 2026",
-      "category": "PLI Allocation",
-      "title": "Dixon In Focus As Govt Reportedly Plans New ₹6,000–₹7,000 Crore Telecom PLI - Sahi",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: DIXON",
-      "stage": "STAGE 3",
-      "badge": "badge-stage3",
-      "dynamic_tickers": [
-        "DIXON"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXdGOVlZbVQ5alRad09tbDJNNWI5NVJFaHFFazdwTUszY2h4blZMSGtUbkpqSkhULVE0bFE1dmRjV0hLckVmMkJZTU1kbExEVUFGTkhfanRNWlZfM3dzOGpjNFZUNlJjVWZSZDV6MGhqQnNYLXVJY1NzeGRYYkVWTUNkcFI1SDNVODNjcEJlb0xtbTB0VUVlQmViTmM0ZEVv?oc=5"
-    },
-    {
-      "date": "07 Oct 2026",
-      "category": "Visit / Inauguration",
-      "title": "Union renewable energy minister Pralhad Joshi to inaugurate Windergy India 2026 in Chennai on October 8 - The Times of India",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQ2J6Sl9TWnpHMVdHemNOdXl5NzFjMWY3SDFPRWh6TXBTYmlXMnA1TkJHajFYRUd0Nldqb3FraHh4ckgwdGtBa1lEb21nS0hLclRVVGZpcG1MT1k0bm1QVlB1NU53eGItZGR6VDZ5bEgxUndraWxILXVUaTBGV1BnSWM5THpxQnNZMjRLbUpMMUs2TV9MemtlVjQzS1llZldxaWhFOGZCU25wRW9Gem9qZzNUSlUtaHplaUpvYl9LVHZXclRwazhZb29fTXRzdmt0T2xLR3g2MEQzVEZHdVZtN3RHaHhZbDh4aVp5ZW5kdngtZTBxMldpdHFsbElJU3ZnRks0OG4tQWRCSnRmS3JwZmxTUFNBQnJy0gGeAkFVX3lxTFByRGNhaFZ0ZzM2UWN4SzdCVlMzWUZZY3RPLWFjR2ZTY1FrbTJaQVRFNVA0QmxrQjJieEtZaU5KdEpPaVYxeTNoLWFqbWJySllnVWdEM3BYXzRKeEZFMnNHX3RxSVRNWnhWMGVkT1ZCamp2cFRkRmhoUlh0YXg1cHJUa3IzeVNuc1VwaWhuaXJsUFhYYW5kWXZHb2s4bjc3bmhFTHdydFZ1ZGxqZVFWQTd6d01TVEt3d3hrWC1Pc29XWlMwTUp4a2ZLV3JHNTRKalRzdDRuY2pQQ2hrU3JzUGRWTTJ5SDZ0NndjQ1pCT0xrUkVSZ3pXU2ltejMtTGxPODBkWklVeHRsM19xWmFGdmtnTjdtNnNBWGNEdThjdlE?oc=5"
-    },
-    {
-      "date": "07 Oct 2026",
-      "category": "General Policy",
-      "title": "Adani Green Energy, Waaree Energies, KPI Green, ACME Solar: How renewable energy stocks performed on October 6 - Upstox",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNczFwWFdZZXYtV0tKcEJMN3dsZ1ZiQ3VhZ3gxbGc1cFhPVzFYYzZ1RGE0ZEVSQ3ZEU2IxZ3FENHFTVWoyMFhXR2NGbmJFMTZMa2otdldQR1AwOUtpUnRsd3ZUcXJTRi1fVFNjQ0ZLbnBQNV8wbmZCeHRUb25xcS02Qm1EU2ZEV2o3NmEyU0ZxdkVOOXdsQWw0UVZWTnFWbExZQjN3MlV6T0NvdHJXSEVLNlFCNThBMGdLNkNMZ3czNjJNd2l0ckY4MEo3R0JBcjBHSEdoaUpodEExeWF0dzJJeGVhY0R2a24zNExYM1lYNTZlMHZnSnQ2YlkzdlE0ZldMT2NoMXcwNGQ?oc=5"
     }
   ]
 }
