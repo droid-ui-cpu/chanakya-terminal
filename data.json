@@ -640,6 +640,112 @@
   ],
   "signals": [
     {
+      "date": "17 Nov 2026",
+      "category": "BIS Standard",
+      "title": "MeitY Revises CRS FAQs: New BIS Certification Guidance for India - MPR India Certification",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 2",
+      "badge": "badge-stage2",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFFUzlvSzJmMVp6aUR6SE1MRm9qNElGNUJQUjgxYWh6ZGZaRkd0aklaTXZ1bEl5dkNIdmpvWTY1ZDJwMzdaQzRyaTdEZGVjOUFIaXZsVWZ4cnJuRWo5UTU1SVhad19LcjRESDJ1djdRX29PNGZLbWFoV2dqVWlZT0dRb3lXUmc5MGFlNXdvc0JOaC1hZWdldmVoWExvNDJxdDZDdmlXRVU?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "Waaree commissions 5.15 GWh battery manufacturing line in Gujarat - Renewable Watch",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjBOeVdOdDFrLUd0RW9nWVYxUGF6QjVrOXhYekk3dlpYWkVKcGZxbWNERlFUcDlHUmNXbHIwOUluQ3BYaTc4TGc4N2VCTUlyRC1EcWk3a0ZldnhwRGF6ZkNrVXhwdWtQdGhJdlBxQkxjMmFUT01VUEhtOFAwS0FVZzFkd21hdEE3VWhBWWlBb0NoUXRlVXNreW5WczJMcFhMbWx2RklWbw?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMERtQ05DbXZ2QzRyeEhJLUxiRVM1SWRqN2dWb3F1b0VsanU4ZV9IOUNwOUpSdEF5eFhoX2g5N2c1eTdCYWhwYVlfTGZEYjdvcUxDckZsS0kwNWFya3NjWFJLT0w2LTZ0Y1RxVDlKWDdPM2szeFhXOG1ya0RiSHp5a3ZrdjNWcnd2MUEtODlUOTA0TXF4ZUpsNDMtOVNFUWVzTXNSSUZ3Y1lGdmtFOHFIa2dB?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "Piyush Goyal says cutting China imports depends on consumer choice, not government force - CNBC TV18",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWEhRUTJYR051NzBtdWRtcUxPQUxfWWdCdnBzSU9QS0FmRW5vSlRkdzVHRjZPN0c3bHdWU094UVpOcVA5OWQtV3JiYTVIeEVHRU92a2RLRU0zOGJwWXgtaEpQdEFWMVRramVRdDNucWJZWjJGU0NyTElXQmtrNklSSnR0UnhvT243NDhVUldGcUNDTndERmdjNG9hZ3lnNkE1WkdGa2xhd2JmSDdpMWM1OGJ3MUFfT1ppVkJHbXpCU2x5d2JjVG5jR2I4ZTg4UdIB0wFBVV95cUxPc2VsTDl4UjFJSks5aE96YVNXSTRJaUU4ODJjTW03WGR5NlVQdDBVY1JRTmk2VGpBN09wV0Qyb2NMS085TEJFZWx4Z2FXYmZENWhNSm0wem1BZUdKRGpESXZEN0ZNaDdKa1BzRlBseVF5VGFZYk9jY3FheEhSRkxFak9mTVE3ZVVSU2NlM2xGRjFFRzdpRmlyVXhnSm51dUtjSGd6NDZObGpHUHRZdXZDMGZjU0NTc2tlWExqbmg0WkhvMnNlM2oyZXpkU0U3NzQybDVB?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "Hindustan Aeronautics, Bharat Electronics and BDL: Q2 revenue rises across defence PSUs, but profit growth varies - Upstox",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: BEL, HAL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "BEL",
+        "HAL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMW1rYnU3d2gtX2FIRlNiOG85RFBRTHZQX0gyeUpTMDVtQVpFbVJlS2RxNUVzWGZRVXZ4WWdnNE1oRFdxLXdTa0dpR0JhbVJmVzMyYzM1MG1TVGZxZGNQcTNxcUxRTDdTT3JIcEZ1TlJHTHBSZ25wc01BdUdNaF84RUpHSHBtR21tUUVhSGdocEN3dnZfOUpaOEo1Sy1zclVmNGxnSTRPb3lCY0hQbXJxNi1PZklzbXA3MUFoYlNPRjJ4SnBMUkgxTG43UU9wWHFNdDlLU3BySkVVZGlYbjBIaUgzUkVUVHNUcHNlRWZkdnZRMkNPWGpwX0hPQldnS3c?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "B.R.Goyal Infrastructure wins Rs 70.39 crore work order from NHAI - scanx.trade",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEdBSFZLd1RWMFdnLV82elBOaXNzbWhQajgwQnY1dF83YXBITlBfWGlNYUJCc3JNenZKeDVQV3dEN0ZPdEp3XzZUOUlkOWl1ekNUUXpDV2pQX3dJaEVtT0d6WEJHSmdJWWttcUd0dG01RGY1czZDM21fQ3QxQi1BckI3MERRRTNPSmMyNjZ6czlUdUhGRkYxZS1KS1VqRm0zRnhQRmlDU3NpU2xwSmZsQ1FwdEE2T1Ry?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "Ethanol Blending Row: DK Shivakumar Targets Centre Over Vehicle Damage Claims - Deccan Chronicle",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVpxeHBiM19SU0ZWZ1FxTmVjMGxKbXpWZmxJaXE2aE41YkR0dkdteVJlcEFsZUlwcEdqeVc1UUtsRm9xSXVScjIwM3gwTm12dWlwVjYyXzN3UWRCSVJ6TEMxLXpmT19qY3pqSmZQSHptZzJGeWRmUTk0dkJTU0tSZHU4TGlKdHU4S3QxS0o1T3FVTkg2cU5ucG5IZWI2ZmxSU2J4X1AzcWhqbXlYTWZ1WnlKSkludm9scENNZnBIVFNSSUZCZ0ptZdIBzgFBVV95cUxOUldjaTBNODZ2azc1M2loWTB5cGxBekZiZXlsbkZCRXdHZXpZNm5QT3JFOFdvMHkxS21iZUxKYW92cFZ4T0c3S2dodndWVTZWV2pSaUo2Z3B6dlZEdjVDekdCUDNjd3MxbTZzWW1xYnlManZyYTFsZTMyMmJDZVRfOTM4dzZXWFZYaTZtaFV5SWt2SUZtSFlfRkJHUHhWMXNCSEpsRmJXdVBkamowMTRwRWhtazBhRjIxaHdDTEdXQ3djOU1hai1KdV9DZlRQQQ?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "Ethanol Blended Petrol Programme - www.pib.gov.in",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaC1RUko4R0c4clpTc3BHdHUyN2dSWHF1emxpVkowc3NZT2xFb0lOTG5tU0R0N0NlUU1pOUE3SlF3aU4zTk84WEJuOVhCLUVRMmtDQzVZT2I1VHpsekxjTXNSZ2VldVk1czZJS3pReko4cXBhNjM0R1FSRHNfbUdadGlR?oc=5"
+    },
+    {
+      "date": "17 Nov 2026",
+      "category": "General Policy",
+      "title": "Petrol would have touched ₹125/litre without ethanol blending during oil price spike: Govt - ET Government",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMUlmLTJHbVpsMDlBeUt5R1N3R21PNTNmZ2RYbVFWQXFvR3R4Q05zZ3VIdGQzZXZWc1YxOWg1LVNxUk1YUWdna095TDg2a25UeDk1b2pQNGVyLURIODlwdkVvMENFVmxXbndXRlptbmFjUFpCS1FFVFM3Z1FQeWFOMFl5UmlObG5memlZck5fdmFXNUZ4aFpzUmxjVlNvMV9BSl9jb3V6UV93Q0VSTUZkdlNoUVdubnlZZk1sbkZIYWdZS2I5MW1KeTlWRU5oMW9RallhRC1sT05TOTBwV0pxRzBRV0dMN1JoWGxoUjBR0gHyAUFVX3lxTE9fS1ZkTHJ0MVZEVGRpRUNmX1h0akVubXJiU1daMHRnYXhnRmVEcEtPaXZKeWlDdkxaTVJSRG0yYlhEd1gwamZZV0xEZWZsY2dKQVJESzk4ZUpJcU16aHVmZWN1SXNZR2xNVXVVUHRxeFlrN1lrZ1FUNGFkSjlnRGp5N0duT25acWxLeDdqdkVOLTBCbFg1cE1BNUdSbU9hckJ2dzl4ZFgtNHk5ODNrVW1ESldZdmlSQ1ljN2pjbDlmbTJTMkdMT3VCN0hyYnVkR0QwMUFjWU1TT0RKcTF2Zk1MckNOZzEzNFpqTUp6MDUtM253?oc=5"
+    },
+    {
       "date": "16 Nov 2026",
       "category": "Visit / Inauguration",
       "title": "Konkan Railway line doubling to be expedited, says Ashwini Vaishnaw; inaugurates Akashvani Udupi FM - Deccan Herald",
@@ -1721,117 +1827,6 @@
       "badge": "badge-cyan",
       "dynamic_tickers": [],
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0RrQ2xaRklNVk9Gank1Nk1GckZBTkFyWTgzY1ZCdVJwY0NIcTkwYTZXMWltSW5YaDZZUC1Ob3RKT3lRSU1TSE53LWE0ME5yNUkyU01jV0RMZm5HQTBnbVkwQllvT1NZdjlzbkl1UUFhYVN1c3JTVWJsUUFOY1RBNXhzMGZNano3WDVWOC12T01JaUpnQUdWNVB2a1hnX1M1ZjY1cklFVEl0ZmlldVgwLXV0SEROdFJ3ems2cmlBeWVPYzQ1N0NCREdZM3lSWjZ6dnJEVk1YRWJiOTJVQWpOdnNyTjI5bS1uMS1J?oc=5"
-    },
-    {
-      "date": "03 Nov 2026",
-      "category": "General Policy",
-      "title": "Ceigall India secures ₹2,160 crore NHAI road contract in Bihar - ET Infra",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObU85YUlFb2phMHhkWFVGVk5kVkp5TV9NRmtGVS1EbGNpVi1vUXhWa2FGZzBmS1dlTXVOZ3RiVG43Rl9yRkFQcmI5MDlVc0FkaWtBUEhjejBjRnpablRlRjltcWtRTkc0Ry1KZWNJQXh5THQ4N05ZVEJQQ3Y5X3RjTnRzTTNDMEpVM2FtX0ZlOVpYWFhUSzZqb2tZUm1jbU5oaUhQY1FiWU8wS285Tk5fb3o3djFMX3IzVUZ1ejZIakFLYVVZN1dJYnlYS1hKUnVrQTQ4WXEyNNIB0gFBVV95cUxNMm1feXJPSFFlQ0RYd0xSWVhreS1fZFZpaXJ3VlVsR2pXelRJZ1Q1M2tHQlNKcnItdlJNcVpUbm9aUlhNQk1QczlSYXdKV1Q5Q3RJTTg1dHhadU9YQVlpTl9rWkVHY2hCWGVLOHFXRHpxNGoyTE14SHlYSThqNXlDU29IR2YzZVAyOEJPZ0t4OWRWcEVwQWRaanlvWklHdmFjNXZLVHpiNVBVd1Y2c3NwT0M5dVA3REVDcmFjSlpyYWlza0h0QUhnd2hHNkRtTWcyR2c?oc=5"
-    },
-    {
-      "date": "03 Nov 2026",
-      "category": "General Policy",
-      "title": "Ethanol Blending Kept Petrol At ₹94.77/L; Prices Could Have Hit ₹125, Says Govt - Sarkaritel.com",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZkZRcW43enZkRmVtTlV3YTZfV1B4ZTBhbjNqdzVoRk95NTh2RzlQWWFHMS1UMnJqVmUzUlNzQlpBTGJaOTdhQUYwOXJST1VHOFNqOXlITWRCdGVCNWRnODI0RWEtUlNpVExKdklRQXJwRDVlSDJRLUlQWWc?oc=5"
-    },
-    {
-      "date": "02 Nov 2026",
-      "category": "PLI Allocation",
-      "title": "Dixon flags INR 1,110 crore PLI claim as quarterly margins shrink - Communications Today",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: DIXON",
-      "stage": "STAGE 3",
-      "badge": "badge-stage3",
-      "dynamic_tickers": [
-        "DIXON"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjFWUkhyX01jNG9RbjdKVXY4Y0tDYmdXQ0V0bG11WngtaXpHdVFGSDBmWDI5NFkxRXpVWXJ3Tm81VVVUZGU4NldkZl9pZWlnRWtCZ1E3aWN1N0gyejNYdld5eXIzekFGcU9fcld5YXlvM3lQUkxuak5VNUl5aTFQeEJoYUM3Zmo5VGRCTTAwVFJXZzNuT3ItaUdCQnNhTm9CaWVqSXBB?oc=5"
-    },
-    {
-      "date": "02 Nov 2026",
-      "category": "Visit / Inauguration",
-      "title": "Ashwini Vaishnaw Inaugurates Bengaluru-Mumbai Vande Bharat Sleeper, Hails New Designs, Features - Livemint",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-stage1",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYnQ3VzY1NTlTQThkSUhkclJMNUMyVWhBbWxlcWk2RFoxOFJsZnd6RmZjcFZsM1hZQ1pxZ1Y0QXZWbktKR2JjTDh1cENGNFVBczZNZDZibnZLSEoxVlBSWjlTQmtkT1BPc0JySENBbDZBSjNHWHNHenU5ekRQQl81R2hHZWFPWkFtM0ZnaTBpbXpaSVFkZm9EN3FVX1Y4RWJhdWNoR0phakEzQTFycXNXdnhhQmZyVEpDbnRnRWhyMlp2YUY1bFdRVGpod0I1d0g4TTNfalV4TkI5NVBwbWfSAeMBQVVfeXFMTVBzZmFFNFFleEhZeTlfdHBVcmFFM0VKOHFOejZuNkxUdzJySVZueWNpckhrQllTUVBBdFpiU3c3c3Jkd1pYTF9yTG9ENnRZaFA4YUVUTldSQ21wY29MMGY0VlU0NVNSWFByWG8zaDQtYnlCY01SQmJLZlRpbkM0Vkp0NFBfa3Rxdzk0Z0RwS2FhU3FCYnNsYjJqXzA4TGtKUVVlQk9HNXpDN0xIM3NlaGRIcndIT0lEeGJpc2pIY2tocmtad05EZnBBREFKa01OZ1lnTlpaU0ZTUDdfaS1ndlJWVGc?oc=5"
-    },
-    {
-      "date": "02 Nov 2026",
-      "category": "PLI Allocation",
-      "title": "Dixon has ₹1,110-crore PLI incentive pending; chairman’s son named executive director - The Economic Times",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: DIXON",
-      "stage": "STAGE 3",
-      "badge": "badge-stage3",
-      "dynamic_tickers": [
-        "DIXON"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVUpTQ0NvMFMzbmFsam0ySFAwenljd0F2QXRuVTgyQTBrQjV1WlRrTnVuQkU2UWlseFJmZjdLaXVZWjJKYkpQQ1ltTjVjNXYxVlJQV2JsTDZRWF95TGNXMG5jWFBwUkg3aXBROVlxdHBUMC1lZWNRVnFWWDVOMEtUcFBqODZOTDQxY1hnQjlfa1lTcXpjZ2NHbUEwbmpCMG9ubTZ4eDlZZ1YwRnhlNC1iWGUwQTlpVFBSMmpackFHZ3FUd2tURjVrUjNreGxVY2x3TktGWU9wVVlMd2FQcVhuNWNQQlE4SHhUaGVxdXZ3SWtQbmY2QkRnQTAtTUhiNWvSAYQCQVVfeXFMUHBxQ2d5cURFMFVWQlRHWTNoUWhSMXQxRDhNRi1rd2pvdXpKVF81eG5xTVlXZlhSZ1M2em14MXltbDJjbHdLcjlGeDIwTWVtWEoxV2tSM3NxaHh2MWtZaDZzX3NSOW9OWmhZQmYyd2VMWGVYcVYtTEFiUHRseFo2em43cFVadGJhVG1WTVdZWmdzblh2X0xRbk43OWI4NVZaOUxhZ21JZlE0aFc3WnJqZFNQVVlUa2JxcjZ0R2VYaUIzTENidTFXRnBic3VXQ0xmMmJvd2hHMTlRdzhST2k4ZmRPeEJwQ2dqOEIzU3JHMG1jUGE5dVk3R3V2d2lHVllVaDI2WFg?oc=5"
-    },
-    {
-      "date": "02 Nov 2026",
-      "category": "General Policy",
-      "title": "Stocks to watch today, November 2: Vodafone, NCC, Waaree Renewable, Affle, CDSL and more - BusinessLine",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb190LUxLeWZhRTFoalpiWXl6dEhTRUZWc1F0RnVQUlA0WlBidlI2RHZfQm9sQWFrZTBNNTJnSXRjMERXdXl0eTV3X0MxMXR0c0pFbFVXdjNySkJoX3F2YlN0TjlkRmZoWWNzTnVXWmpwQm5CY2l0eVdGMG9MdXBfWlRHcGFrNk9GYVhCOVJIWE5rYmM2RDRRS19YdmdEOE1MVkJScnJiTF9jR09WTEFKWEk2blM2V0VFaWFsVVVOMEQtb1BxeGZpamNFcV9WSU53bGfSAdgBQVVfeXFMTll4RHFybkNxZm00NXo4Zy1KWjQxYnVtd1NnMnpfQUFnc0hoQlNRM2NSOU4zbmVuWWJVbVlFaF9GbUVKbTRqZjA3V2t0RlVubS1IX3laczdvaEtWb1hPUk5VaE5VS3UweFVkNnFoREpyNENNaGo1R0hFOVFMY1NUVmdYelc1NE1Hb0tDbE1xVGhhUmFzM085M2x6WDJPNThqWlI5MzJMMFI0ZFpTVTR5R0laYnZfSmpiQzVERHFVUXUzTHdMeW9GNHBoVHg0OU93b3JPb0JNSEtk?oc=5"
-    },
-    {
-      "date": "02 Nov 2026",
-      "category": "General Policy",
-      "title": "Waaree Renewable signs five-year O&M deal for 360 MW solar project - Solarbytes",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkdnNERnQk5PWlpBLXFoc2dXRHFSUTFPd0h6MEN1bFJlUERHUzZ2SFZaZW95ZkF4S0QzaHlkcnBKWjYwUnNGMUhCTi1VM0hGcmhqTjhtWlJFYVQwblFRaDd5ZTVwWkRNYzNFTTduSzRncEktV2xTUi1NS2ZEQk9lVVlUQlBsaTI0Y1lSTHVfYk9jSW9CQ295Q3lGWFVQWW90cXVlcVZObXhjTURpaW42UGlHU3Q?oc=5"
-    },
-    {
-      "date": "02 Nov 2026",
-      "category": "General Policy",
-      "title": "Waaree Renewable Technologies Secures EPC for 450 MWp Solar Project in Rajasthan - Construction World",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQkNDbmtaOXY0RkstV3N2Y01aN3RHRkRtRlpOZWtGdTYyWVlobEhYcmVnN04zSXcwYkRUWE5scG9HaGlhRnpYNmF1OW5wVGR6MHg4T1UxZ2g5SE5pM3p1VDlBaVZidWxfbVBPUDROMkMzeThPZjVudHprWWMxOVFDb2MtNlVRTHU1VTVOdk1ldEtpYmE1M1ZEQVNfejljQnBFT0Yya1NaZDY2SFBLLXRpUTcyUDF3dm9xcHRDVHVXcW9hZ3h1QmJNbEJ5Z2tYNUJQdmFuSHVtd0VPRm5Qc3ZVYUVVSTJtVXAxbGQ2X2huUXUzU1FTbm1Ga1VlVVk?oc=5"
-    },
-    {
-      "date": "02 Nov 2026",
-      "category": "General Policy",
-      "title": "Waaree Renewable Technologies signs five year O&M deal for 360 MWp solar project - BioEnergy Times",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSndIdm95ZkZrQV9fUlVuV0NxUjEyYnFMak1ic0tWbF9OQTU2aGUzdGZ6QXZnRXFLcXZJZ29XbFRjZHp4MGc4NVozRVBZdGpFdGdOU0xaSG9yNVNWVzdpRTJZb1I1V1VUd1duLTJvUjNPcFpWMnlkZGwtZVBhRUdSaHRDWWw4NzV3LTNkZFQ2Wm9yOHg5ek1ZRWRvNFFGSkNlczM0Vm9iYUZKN2c?oc=5"
     }
   ]
 }
