@@ -640,6 +640,52 @@
   ],
   "signals": [
     {
+      "date": "18 Nov 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable Technologies (NSEI:WAAREERTL) - Stock Analysis - Simply Wall St",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNEJoUENEYk9tMEV6eTYzci1tS0J4a1hZeGp0ZGVRRlpoeTVpanBQNVIzanNKeFBkekpYdEUyc0w4OElyZTNVTERoY3JPMHF3YmtKbXZfbk1ZYmh1aTZ5NkNUakJreTJwSk9vVl8xZGhVcS1IYk4yRzBLYWFrTkRwTGhXczMxU0hPNmNlS3lDdmZQTTZXQXdXTGp2Ty0?oc=5"
+    },
+    {
+      "date": "18 Nov 2026",
+      "category": "General Policy",
+      "title": "Ashoka Buildcon shares jump 8% to 11-week high after bagging Rs 1,465 crore NHAI contract - Moneycontrol.com",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTczb29MM25fYnBNN1huLVI5Tk9HRHBuN1ZWZ2JlcjNIWjVUQ0pRcHRWODU0SFc5c3VQYkl2bXRpU2ctUXRHRlV6dDVRQkU0czJkSFJpZmY1M1QyTnNkSEJ4Q3o3VG43aS1XNWtudjF5Z0txME1rS0gxTGlvOW5HTllObzVRTkppUS1udW0tZ0owYk9lQnN4cVVYSGQ3TVpPS2wtdU1lOUw5aHJDT3l6MmQxWWpCbW9DUFJjTVA4Z2Fid0Q4a3JndE96VW1pZHg5VzNB0gHYAUFVX3lxTE9pQ29ka0cySmN6ZkZTQzg4UVZ4OXhGWjRqSDh0Y0xaS2hKb3FGeXNyMHB5eW93aC1oWHBubG1qWFlmT2o5dm4tWHEzaF9jZWFTYTE2OElVMkcyMDZrT0FPbUIwRFppT0VUejRieEJPVmVWai1aME0ydmZSSWJCbGktN0ZiS3kxZ1B6RWtLSlFwTlNZOU9QUkpvcjNVMThNdU43OUxpTk9Qa01RNG42UWNQdGFGakJJekdDeEdwNXhuOHBxUnFxQjRMUm5xYVd2dk1mLVZWWE5yZA?oc=5"
+    },
+    {
+      "date": "18 Nov 2026",
+      "category": "General Policy",
+      "title": "Ashoka Buildcon declared L1 for Rs 1,465 crore NHAI project - Multibagg AI",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0tTYzdDcEVuaE84ejNXcGRNTmMyaUJQeHZrdXJ6LVFCZThMaXI4eEx4bHNtRGFVTVlQNWg3SjR2RGVYdDV3b1BTOThQOF9KT1ZHV24tWm0zU3JzSDZvRlQwOTd2empIZVY3UnZiemlFX084TzZldVFtQzFmYUFwUjdMN3BjMVdtMzRUaTFIX3g4RFoxTUVEMVhleWd5Z3Y0bERNVWN3NF95c0UtMlpOUEw2VmFFeGFBVGFGQUdn?oc=5"
+    },
+    {
+      "date": "18 Nov 2026",
+      "category": "General Policy",
+      "title": "Ashoka Buildcon Becomes Lowest Bidder For ₹1,465 Crore NHAI Project In Gujarat - Sahi",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdy1Jem5mcS0zZ3c2LUw3LWpBMTk1QVpKMlBZVnZacUVTYmNhdXpKUVJ2N1Z6UE13ekgwMHRSV3hOZW9fSFJJSGJkeUV1UVhkUUJ1VVUyekVtZm95bWdIVHA4eDJmUW01d0pqYVpfbGxUSUR5SGk1ZzJ4OG9LWG92RFQ0S3ZjRXFxY3NkMXE1bHE0S1AxM21yZEVTVDdWdHB5M3hNb0p3?oc=5"
+    },
+    {
       "date": "17 Nov 2026",
       "category": "BIS Standard",
       "title": "MeitY Revises CRS FAQs: New BIS Certification Guidance for India - MPR India Certification",
@@ -1777,56 +1823,6 @@
       "badge": "badge-cyan",
       "dynamic_tickers": [],
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU5ja1p2NnBYcElHUGc4RDNjeGFNY25sOUdjNTBwbXFXcDhwSTBnYVlaSXZhb3dibUlkR1FoV1hQd2s0VjYtQ0lIVGV5ZUwzdC1xT3JRSk54LTlNSXZWSi14TkkzMHVzVTBfNzJQSk9zYmJwNENVVlU1anFUcXphcllRRjZRcGRwRFh0ektSYTExcVpsZThjZUp6UDBaQ28xek5nQi1rYloydV84Um5hem1DVXFoQ0I2TEdScURtbndaeWp3R2hCMDNWY25XbHkxTHZz0gHYAUFVX3lxTFBxcGxscjNyV1BSX1BJS2w4ei0zTjl4T01BUmtyMkFsVTExOURwSXFXOTBBWXhYT0pBT01vWlExajA2c21kckZuSnNzdm9lZXRFeWV0a2E4Y053TmEtSUF3SjNIem5URDZwNWVMSy04cDJkaFBrZjVWeF9FZ29uekZSQWhFMEllR0c2MG1OdnFxNExycHg4LWFudGdEdnJ2LS13eHV2QXY3Q2pDalZBRjdwN2pVbVM1MVZZRXRtYTc1UHl5TEthNWhtR09RVTFQMUZDOGZTSHkzWA?oc=5"
-    },
-    {
-      "date": "03 Nov 2026",
-      "category": "General Policy",
-      "title": "GRSE, Mazagon Dock, Cochin Shipyard to BEL: Defence stocks jump up to 7% on Rs 53,866-crore warship order - Moneycontrol.com",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: BEL, COCHINSHIP, MAZDOCK",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "BEL",
-        "COCHINSHIP",
-        "MAZDOCK"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRkdidWtSNkZVM0hfYkpTWF9Ha1FvRWo1WXFheFJSeEtCcXhUcGg3YVhtUl91dTlvTUlYWWE3UTlkaVBRaFNHVGtEcmFhMHNoQ1pJQVI5QXZ4NWpCT2ZTc0xGSG5Yc3hQZktQMlZpYVhjMjJGQ2dBUTU3S2JpR3hlTVhBeFdLWWtSbWZ0OFZzdG12TC03NE1nN1FsVVRCNFRZVUhjR0VIR3Eyc1dETVRxa1NRcWp0dndsMWVJak5fbG1tOUZISC1yU2s5Sks1NldLSzlaZTY1Ynd0dGxiUndWWFJGSVc3ajcxR3p0Nkp0SVY2ZFppTEgwZNIB_gFBVV95cUxQZFpkRTJ6VENqTXMzNEUzQVN5WkNqYWF6OHhkM2JiYzR0bko5Q3VQNjlWWkI5dHFDUTRyUHV0YWN1bm1zWUMyZWhYMzNnM2lWdkxQS196bW92TVhsb19wbUFtVzVzZG5VN2xFVGxVc2FOSUNNSVJsUnRpMjUxcHBpNFQ5YTBnZ0gtenl3akNiWjdGX093WFdvdTRUMl9SMmkydU9qSW1pdmgyeEotMkZhVG5kYXVjTXFXNEtZSEJINTcxbkVSTGZNb2JreTdwcEozLVJUVVMxdUlWQjlvNXU0TUQ3LVNMVWJtSDM0T2hjZS1welFGdFFLTUl0THlwdw?oc=5"
-    },
-    {
-      "date": "03 Nov 2026",
-      "category": "General Policy",
-      "title": "BEL Q2: Net profit rises, beats street estimates; order book at ₹68,717 crore - CNBC TV18",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "BEL"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWRMbXpUS3NYTVcydFhJZUxDQm0yRHg4U3dmSHlTVUVhN3RTQVQ1QmcwUm1Mc0FPdW5TN2FTMXR4R29pWHB6OENrWUxBVFFWS2JFVjZQeWJfZl9BRFAtZEJXQmNfaHNHUGEzQW9wTmVuNTlhNnVubklyMFhMRUpzQ0NDMTVZa2ZiNG1idXgyeEVjanBkbjRSRFE1eEZ5X1czazlBSVFmckh4RlptbXNsNExqVHlfY3N2ZjRz0gHAAUFVX3lxTE40ek44UUJhS3pDdHVZZlhsclNDRUctVTFJVF9ISnRVQUFCREFiZ1E5Y2ZDWWI0SVZOWTUxM1VoN1JyYTVJQkZtODAyczYzZS1mRUJ2R0psMDFSVDFqaVJVQWlFM25VUHAtY2JuMGhCa1U1bkd2WHhqWGNhRngzdWlpMDB3TV9Ha0xxUUJMcmhqOHRFQnU4TTdVYktBZFZLREZFSUxSZWVMQlNfWk9LZE8xN2FTMjMxVnllZnM4cFlrOQ?oc=5"
-    },
-    {
-      "date": "03 Nov 2026",
-      "category": "General Policy",
-      "title": "MEP Infra Gets NHAI Toll Collection Contract In Jharkhand - NDTV Profit",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRjFKMU42V2Jxa0RmcnY0aXBvV0J2ODl5bHZ6MEhETXRpWnVNenVlUngyQXRhTnV6eDMwRjFRVkZSM1lnaGtwN1dOVEhtUC1nTUw2ekxSRlE5bkFPMTZxYmU3d0FmQk13NWpOeDFjWlhXZXg3Wm51M0Y4WEJiTDdySUs4YTFzdHRXb05ScXRGaV9VMU5fNVBwMl9SbVNiQXcwQUJGOHNGRGJ4RHBCLU84?oc=5"
-    },
-    {
-      "date": "03 Nov 2026",
-      "category": "General Policy",
-      "title": "Highway Infrastructure Secures Rs. 4.32 bn NHAI Contracts - Construction World India",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV0RrQ2xaRklNVk9Gank1Nk1GckZBTkFyWTgzY1ZCdVJwY0NIcTkwYTZXMWltSW5YaDZZUC1Ob3RKT3lRSU1TSE53LWE0ME5yNUkyU01jV0RMZm5HQTBnbVkwQllvT1NZdjlzbkl1UUFhYVN1c3JTVWJsUUFOY1RBNXhzMGZNano3WDVWOC12T01JaUpnQUdWNVB2a1hnX1M1ZjY1cklFVEl0ZmlldVgwLXV0SEROdFJ3ems2cmlBeWVPYzQ1N0NCREdZM3lSWjZ6dnJEVk1YRWJiOTJVQWpOdnNyTjI5bS1uMS1J?oc=5"
     }
   ]
 }
