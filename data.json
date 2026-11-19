@@ -640,6 +640,17 @@
   ],
   "signals": [
     {
+      "date": "19 Nov 2026",
+      "category": "PLI Allocation",
+      "title": "Mobile PLI scheme generates ₹25,000 crore in direct tax: Ashwini Vaishnaw - electronics.economictimes.indiatimes.com",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 3",
+      "badge": "badge-stage3",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUNmWlNDTjdXMzVRTTl0cXgtcFhlc3NvRG1yVTJ5WjdONDdzekZnM05WM3o2aWdOVUVKQTQxei1OM3N5WFltZnMwa19QSDUzcGNJcURKZlFwamZENl9ySmMyRk1hRTBWeG16Yi1FRkxFNS1vZ3hnOGQ4UnI0TjZ1d3FBUXUwQXF6ektCbWR3Z3F3TU9yZmI2b0dkdzNFYTN0MkZ4Uzc4a0RHUWRIY2E5cElZQUFhVVhaTE9KdFQ1S1VIU1ROd3ZNbFBVUkkzT0FTUUgwY29Vamc2clVsRV80X1dmTDI3Tm9z0gHuAUFVX3lxTE9QbzNlV19Fd3NPMTY2ZUNSODU4QWwyUlJSQjljeVVfOXBhU0o3S1lQaUtiRVB3OXdydk9uTTdmNWpmOEoxd29GRm45SUtBMk9VLUVZc3llbnVtMVFpY0tiZEhKSnBpS3l3cmtGeVdQM1pUZlU1QlNCU0RFeHl4UVBoSWVPQVlpRUFiVEZrNEJjUHJjVmdKLURMUWxHSFRFbEp5U0ExQ2N0SVV2NnZlRDNWYS1xZ1RDTnQ5eXRZYkZJbXpPQ3Y1bDNfYmVobExhc21CMjFwdGRGMFJmUTBDRFZIUFBsdThKUXVfRkp0X1E?oc=5"
+    },
+    {
       "date": "18 Nov 2026",
       "category": "General Policy",
       "title": "Waaree Renewable Technologies (NSEI:WAAREERTL) - Stock Analysis - Simply Wall St",
@@ -1812,17 +1823,6 @@
       "badge": "badge-cyan",
       "dynamic_tickers": [],
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTZkelhfdDBRZ3BnNHg4cXpsYTRsSV8zYmh0YUE2ems0Z1NzbU9RYkZPMmdpNG85b1JnQmw2WGN3ZF95em5hRHlIQ3pHU1U5cWtVMVUtR28zUDlSYXNscTRmZWYwS2t2aG8zeHRmZHhqQTlyZDVpN1liRDkxTDNOaVpJVDFYd3NqWkhQS0FQLXJwLWlRRjNaOWhzc1BYUjBPWHR2NHotODgycjVybWlBeS1GM3FDaWVUUVhoVG92ZEl5TkM1MG9yX2hvazN5YlQ0cUZmbU5EdDFrbnVZSG1DSE9GSGpLQUXSAewBQVVfeXFMUGFxdnRhWEd0UjBKeXVyQk5JUkNpNWxxT3hJMWV3dkIwRzRqYmRJbzhnSFgxblFFU2NkQWRUX3BYZTRSZUlidXlIZTlKMUhjMmFHTEpVcWFLdWVOdS1aSzFfUzlESERnbmpReUx0VmEyT1VFQkVQMEZqcG5BZGVON01oOHplUjNpQXlnOTFxOVhUY3lwemFtSlBDeXhPLUtOVUJmWFlkam1uVjdKczE5YU11UHk4VzRqTllGX3IzbzMxSWYyTk5JbkplR0J4NGd2OWo0X1BycFl3WVJneDZCZmFNZDBVUUxOaEY2eVo?oc=5"
-    },
-    {
-      "date": "03 Nov 2026",
-      "category": "General Policy",
-      "title": "India will never allow imports of genetically modified products: Goyal - Business Standard",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU5ja1p2NnBYcElHUGc4RDNjeGFNY25sOUdjNTBwbXFXcDhwSTBnYVlaSXZhb3dibUlkR1FoV1hQd2s0VjYtQ0lIVGV5ZUwzdC1xT3JRSk54LTlNSXZWSi14TkkzMHVzVTBfNzJQSk9zYmJwNENVVlU1anFUcXphcllRRjZRcGRwRFh0ektSYTExcVpsZThjZUp6UDBaQ28xek5nQi1rYloydV84Um5hem1DVXFoQ0I2TEdScURtbndaeWp3R2hCMDNWY25XbHkxTHZz0gHYAUFVX3lxTFBxcGxscjNyV1BSX1BJS2w4ei0zTjl4T01BUmtyMkFsVTExOURwSXFXOTBBWXhYT0pBT01vWlExajA2c21kckZuSnNzdm9lZXRFeWV0a2E4Y053TmEtSUF3SjNIem5URDZwNWVMSy04cDJkaFBrZjVWeF9FZ29uekZSQWhFMEllR0c2MG1OdnFxNExycHg4LWFudGdEdnJ2LS13eHV2QXY3Q2pDalZBRjdwN2pVbVM1MVZZRXRtYTc1UHl5TEthNWhtR09RVTFQMUZDOGZTSHkzWA?oc=5"
     }
   ]
 }
