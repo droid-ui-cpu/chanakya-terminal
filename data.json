@@ -640,6 +640,161 @@
   ],
   "signals": [
     {
+      "date": "23 Nov 2026",
+      "category": "PLI Allocation",
+      "title": "PLI 2.0 Buzz Lifts Dixon Technologies Ltd Shares - Kotak Neo",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: DIXON",
+      "stage": "STAGE 3",
+      "badge": "badge-stage3",
+      "dynamic_tickers": [
+        "DIXON"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDBHNnB2TDVWV3ZzX2lNWGM3d2JESG5xS2poVTl5c1kwUnJRZVBld2F6c1lkc1FzT0xQeHExM0RDQVdRNl9nWXR0ak1MNGFTSjc4elZNWWd1T2RRel90cVhoaUpzWkR3eHRYZlh3dk5UbE0tZTVwZWFvNnJKMUdvM3ZENEs3UmVULXNXSjdn?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "Waaree Energies, ACME Solar, NTPC Green, Vikram Solar: How renewable energy stocks are performing on Nov 23 - Upstox",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaDRfa3Fxd1RrTTBld1BmVkIyTEZ1S3ZFckg4UXFJOFpWU0E4ZWxON0dXY2FIT1lnRWE2WkRsOXpwUUplXzMyc2pTdHZGTkJ0YWRoUW0ydE1aR2lxVzg1SGh6QjA3NmF5aHc3NVcyaWMxQlJyWHJ1M2NwTVBZblI2R2JNMDhpNml6a3J5ZHlWUlpPdFo5VU1QVXpScWVxR2RkdFROT19jUlpLMFZCb19ObkZfWVZxa09Ta2l0TVE4V092NEVyeGFWaC1CU2FONGNmM1k1TG5fYlVMdFY1UDFpWGFNbmVqbEUxcWpfTlVadWtLRm85?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "Waaree Transpower Bags Rs. 1 bn NTPC Battery Storage Order - Construction World",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV2owMjJyMm01VHVmdG9OX19uLWtSbEItakFfaTdZaU9YakotV0xlQ0tsWnV3ZXFuMmp5T0F5dEs2Yll0cGE1YTZlODd3bnhYU1pCNEZYaGE3YkFyWlEtZU1fMS15c05IWHJFS1l3d1pweWwwMURRc05ISFQyQ3lQdERsOVJvS25VV1Yzb0Uwc1NSQ1NNT1RzX3hnVWpUUmlZd0J3UURFMWgzdVBxTEhtejhjcW5sRXNwZWZQNWs2RG9tVFl6UjNyVmxEUGJRbUt2T2VjejJldHh0YjExSHZ0aA?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "Waaree Renewable incorporates AuroVault Data Centers unit - scanx.trade",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "WAAREE"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaF84UU1ETnlTRmhsam9lZFpGN3NTV3VaQk9NVFlMbnZlRWF5UnBUNFdjRkg2cGhralFpS2dqTU9TTXpSVDhlSnc0ZnlTeHUxdUcyUC1qOFAyRDl6clAxa2sxZEJ1MDRnY2NRMHFSUEhuR2lEdGthU0hxaHZVeGR6RjFncFlidFE1QktVT2ZjT3A1WTFzTXFuNHBZLTJkSDk0VUpDLXdtMUlIQV82TnJJbFp4S3A5UQ?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "India's Gold Imports Fall After PM Modi's Appeal - HDFC Sky",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUG9aZjZ4d2xHU3lHaFB4Nnhwb0RPZ1Z3b1N4X3NuX1JPRWFjQ0NFSnVtb3o1RlFZVjVxcl9jMHc3WEUyMzJ3ek11MW9BaGd0Q3hTVC1pZ3hMMmp4TkhPamt6NkxKNF84bHpwSklZYWFlZWJKWjhDckFucGFuQzRBR2c1VEs4MGNfdm45d0lKaE9PN1FveFo3a0kwUEUtQQ?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "\"Indians influenced global gold prices\": Union Minister Piyush Goyal hails PM Modi's appeal to reduce gold purchases - ANI News",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRjJZMHZzMXhMV25tdHp3cjdyRkdGWVZKc194Tlpnd3V5WFV1LXFJN256eXN3c3lMYVNpaEF4aV9FQkRCVHFJYjY1RGkwOEZOTWJuZlJXb0M2VVNxdnlLZmQ2QVp3Tms5dTNFZG0xdWlhaFFfaVpJVzVheGVDYTVfelF5ZXdrTHNsWDRaWi1qMmxrUzF6VnhSYUpJZk1KZmhYV283cGh5SzZwcnlKd0pNYmpQRjBnUnJzX0lzcHBtMXBvc1RZUW9reUd4bXBSUVU0clhtNkxRUkxRcmw1WnJpcTU3TlZiQmRpYnVNazRfRkFRSWNtcFFXUHZ5T040eGtVamc?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "PM's Call to Invest in Assets Curbs Gold Imports: Goyal - Rediff MoneyWiz",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFdZMFdLcWhRRGtpQWF2cEphZTNibFBhQmZCWTBsc3J4SG5CLUNKUVdKNW84NVBWZ1dFTTRCQzZQWjJXX05UY0M5dDRvTmlCLVpGdmJtbkZrRHZ0S0tRVGZTbmF5LWN0NmFoYTc0ZjZ4NWE3d0NXa01zM3I1ZXVPWTdNcUc1T1Z3bXZEc0t3Tlk2b3pYcVdLU2pTWG5penU3bWEzdXI1SWJXUdIBrwFBVV95cUxQa3ptOVRnVzZTWXlCaDUxcHViZGhQVEkyM2hlNVEzT0xhVW5iRlo0Y0tyc05jZFRVaHA2blUxMENLdXJPU2R3cE53RC1meGE0WllkQmZaTDZHVTRfYVEwUG5ZWGtObXJvWVZ3ZXdadlo3RngyZWs3aDJfWUZWbE14anFqTlZtdjJNV0VhNk5uSnllTUYwb242MzNXQ1p2LV9fR3dBNkV0M1JNYWpzVTZ3?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "BEL stock rises 5% as order inflow optimism keeps MOFSL upbeat post Q2 - Business Standard",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "BEL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1RmMkNjNFhyaFR3T2RWYXJtQUtiYjNTNGhLMl9TWG1INHAzNTJmc3pZWnFGLWpRUThKQzMwcEJCdXkzMmRpUFZ1eU5KcnN6S1ZmRTg2WXI2VXNNeEdrS0I4YnZzeGR4YklQcDhEblNZWDZMMFdtVmRiSXBfQUI1aS16WVJpZERGc0tKeWVDWGNBNXJZVGd6WWg3bmNKWVlDc2hMZ1FjS1hzWTdmNXdlRHpqVi1ydzQzVklLRlhYeC1VREVqNkxLdUZsbzlhVzNkcGfSAdcBQVVfeXFMTU84UjNLVFF1R19uaThUUXAxMjBxcExZa3VZNGprd1VjeGgza1g5UlBJNUpZY2dHdFVqNVlwZjhRdGk5bnVqWTloQm5pS091T2d4d21IUmFfMWFrVXJlT0lyMWthOWZ1bC1kUEVOd3F6NkJMTDQ4VFFsOFpQeTJKcmRBOWE2S3RrdUFLQ2NtYWxxdU1PelQ1d0NVcms5NmVOeWdtcHBnc2p1eE9jcElmNl93S20ySmRZaFdPR2Q2NnY3RTY4Y0M5Rl83bXVCWklhRDRQVUxVRm8?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "BEL Q2 FY27 Results Oct 30: Order Book Rs 72,000 Cr, Margin in Focus - NiftyTrader",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "BEL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrdUpTRHVCaDNQdlJsa0VJZU8xbGVEUGtteXo2UGRIVHFPc1B0cThhbURvX1lzVnF0bmhQS0ItOEJFblZvQjVRWGdJbEU1cllYWDViZE0tVjZnNkZfekZPN2VWeFN0YWhnck9LMHY2YlpMaFkxTVE4?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "Ashoka Buildcon Rises 7% on ₹4,200 Crore NHAI and Metro Projects - Kotak Neo",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEc4QzBmbXUzUEUzWjVRd0xXZ2RYOHlIbV9PRkdsRUJMNTJFOG4tOW92Q3FkcnU0R0U2TmtoYS1jMnVpT01kWUloTEhrUW1nWC10dVVCNDRVYUV2cTNpSmxNU3prbkpwc3VCRjhUajJtX3U0YzZuRDQxQmZicDdGck9hY0xOd09ac0lJWElVaGdLV01kV1ZadEhQNFJvNElmdWhKRTJONnFyYVVOZFpUZw?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "Highway Infrastructure Limited Secures Rs 431.86 Crore NHAI Contracts - Multibagg AI",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkVoU3ZrYzM1al90TkVnY2JBZUh1UjhmS1cyQ3lBTkplT01NYV9RaU5JdnNWSGUzRXNRejN0Z2YyMU1jY25lUG5MT2pMMnBTYXd2YmRpVkJxaUE1RlVrMEFWVHRyWTJ6MlFPSjRIREc3ZWxBejcwTXJDUVZsTXN0V2VVY1Z3Nm5haHVMRjE5UTlKcVB3MzBPVS1pSWhzR082T0wwdkJ5UHVUdTBFZC1kQXRUNllaUQ?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "Ashoka Buildcon NHAI contract details: Wins Rs 1,465 crore project - Alice Blue",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ3l0V2l6akY5WXFxejl3WHZYUzFSdUNRTEdBVGVPNUxRT3p0cG1qSks2Z3MxaGF4X2FUWC1MbmtKaEdkX0tObW43b1VidHJMaTkxbFk1MF9uTlVCLUIzRTVLalVaSnh1eGlfM3J1a2lWcGRsM1JianpEclpzOVNmWm1MS0RYQzNzd2tReVhZMVV5MDB4WmJ6NTRodmtvcjg?oc=5"
+    },
+    {
+      "date": "23 Nov 2026",
+      "category": "General Policy",
+      "title": "Modi govt shielded consumers from global fuel price shocks, limited hike to 7%: Hardeep Puri - The New Indian Express",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONU11TzgtYUtNeWxycXVkNXktMVRfV29QRnFxY2pHWlNyNnhpRU9FZkZPYkdmTXpacmdhakt1X3A0OFBNS1p4OTJERDdxVnZySnppVGJNa0NLUDdsbDZsMWxmYUYxMnRvUkNUZ3hkcDgzTVIzNjFlaTJxNHFNWGstWlpDQkd6X2RHOHF3TnYtMTU0RXFiR3lxZll1cUN4RHp2RDFRemhtdjZVZUxGVmsxM1hBNmpTa2ZMREpWVUpPdzJ1VXBtMnl5aGthbldRV21Xb3VudVE1a2RXQzjSAegBQVVfeXFMUEE4NjZPWXNsd3VYZTVwd2t4RmNRWFpjU1pCVTNtSkNqS3lwQk1vRXo4U3N1elZsQmY1Qkh5bUhOcDJueDdTaG5OM3FZTnJNQ1Y5VFYzNGZ2NzRsYS05WDZOYmxZMGpTZ0E0ZzYwMV9UeEpLWHd0ZEtHVDVxaDdVQl9tNWZzNjE2Nk91R1NJLUNFcFJScEdDODFfQm1ZZHdqcHZRYnpTbEZkWjlab1dkZVQ0d2RRbzhnTllqd1prem9XNlpBaDBZSDlYakFQbjZhb0NMMjVFVUVod3F1UjFvcnc2U3dYS2twWQ?oc=5"
+    },
+    {
       "date": "20 Nov 2026",
       "category": "Visit / Inauguration",
       "title": "Waaree Brand Store, ATMO ENERGIES inaugurated - Greater Kashmir",
@@ -1669,160 +1824,6 @@
       "badge": "badge-cyan",
       "dynamic_tickers": [],
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmhvbHduSmpBMUlfNTZUTEJvRGRDa1ZnX1dYVW5IZF9rRHpZc3NoLVhoS1JpMkx1SnRxdDFHX3B1VG05V2lfOFZ5REZSeVA2UHJJYjJfa3RUekh0czAzUHFCOTliNkdLR2VQTFRJckU1bTE3V3U2bmtMSVp4bFRhTUhWcjk1QzhVZW1EbFU1RzVkMnFxOXVlcHp0em9PUGZCSWxVRjZ3NzZzdw?oc=5"
-    },
-    {
-      "date": "05 Nov 2026",
-      "category": "General Policy",
-      "title": "Bharat Electronics: Nomura raises target price to Rs 520 on large defence order pipeline - Moneycontrol.com",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "BEL"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWFBtUFlEd3Q4T1hxRGtEamRydk5ZRUFGVkMwOS1EY1dMQ24wdi05alBpQkdXZ2wwaEkyQl9sOEtsTzRiSDY3WFFSdmtEWTItM0xyR3E4dnlnZDJUajVtMWpjTGo0b1pOalRwME5PZlY5MWEtcUZ4SFpwaWZRTTZFWWsyR0l3VG9iblhqOVM3V2pPb1pJeVVGTW9ZNFZQN0dOSEZtYXh4STJzWHlVaDNOdXlYSFZNTUxKRGRaU3ZSeWpkTHZpUXNIY214N0UtNXVGaTBwUG9RVUJTVGdwOHRJTzlrR1Y0QdIB6wFBVV95cUxNaGRLYTJlNlQyZ0J0TDF3dHhfTzZJdDh4eF9WY2U2U1VOeEZoWVl0NTluZkZ1Nk10c0NtLWJxT1dIVExCd0hTOUxHVzFlazQ5Y3VIRXNQQmx3T19SWnBTTnB6M0huYnkxdXkzMWR2SFZNQTV5NzNmSGd1UFNBMkJxcElYNnBIVDFSTXozX01nTGQzN21qREFLUnRjV1VubU5XSEJoOERiaW5MZ0NTWTg5ZTdnaWlpMzNRTVlZeFRkRE12ZVdwelYwLTc2cE9sa3QxZm1ob3RQaGhuYkZFbllMejBFZ0ZvalZReXBj?oc=5"
-    },
-    {
-      "date": "05 Nov 2026",
-      "category": "General Policy",
-      "title": "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List - Livemint",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: BEL, HAL",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "BEL",
-        "HAL"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQanVGUXF1OXBEenUzbFpicmJkMlYtZG5RUW5ITGktSWlFendXbEZDYXF4VGRsWVAtajdad1J3dWFxbEhTYldxdjhHcDlnNEVxZ05mWnBBbXhNYzlWTFJheTJON09UQlMxVmJGSXl6eXEya1JZZmZHSER5M0ZQMDk5d2RoejBlTkl0b3lfcUhSUEdUa3dkbzBnVDFSdkViRzVjd1pkM1lHOThaSmZFVVFMeEhXbGFsSXVQQXBObXd4WVlrZ2Z4NXF3N3JwWDNfeTlDVVR0QzgxOUtScUZVaDNpTS1rd0NqOGF3Y3VYWWpxNGxRY1NGZXRHaUVqWWJpcWQtQmpmMm5wSEVNd9IBjwJBVV95cUxPRkM0Y3BLV2tDeFJuZlRIWFNPVURMR0JYY1gtN01PbHdxLUdCMmV3bDFxeGhXOTAzYVloSGFUd0FzSGc5amNXc1hPWGVxZjV1Mk15cTJMQWRSemxCbVQwejB2QkRLYUJkMlBmZk52NUw4emRIVUhBWm5sTDRxd0U5THh0cll0RExZaVh2ZHRjVUhsTHRtaEN0WDNsMnpxbHF2UWVBUk1SRDQ2QTdJUEJXQ2o0ZFYxUU5YS3pySEhXdTY4Yld5MTlhdlpjQVpfbHk1TWxlUGkyUkZRQTBiazUxWklfMVJCdm4zLXJMV3k5aDNWdFVCMUF0ZldVM0lwVGt4emxXSEtiZWRFLU1nYVh3?oc=5"
-    },
-    {
-      "date": "05 Nov 2026",
-      "category": "General Policy",
-      "title": "BEL shares climb 3% as brokerages back post-results recovery - TradingView",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "BEL"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVBrMUVucGVhWTQ0NnF3ZUJFSHJKb3hRWkJoOXNWcVhZS1RXTjNQalFpVDhyMGdVTHA1d09PYnNWODBwY1puNi1yVnFmYVBmRXFRMmtmMFRkcERXVUFFUWo2WUtLSHgzeUx4Y2d0YWdtSWZtZWx5OWZ1bnAyeC1ZdEZldkxmSnlqQ1hON0JlWldBdDNSMXVmVGRYYzBCZXc1WTUwRlhTNmlpc0JFel9iQUNyUkFnVzg?oc=5"
-    },
-    {
-      "date": "05 Nov 2026",
-      "category": "General Policy",
-      "title": "Highway Infrastructure Wins Rs. 3.4 bn NHAI Contract in Tamil Nadu - Construction World",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcFU4WnFIdHFEV2lTQkRrZmJVNlVoUjJCMEw2ZHk1RG9rblpSODB5ZkRTdXE2YzlMcEtITHZnRGoyOTRTaEVBSlh0N3ZfSDRTLUoyMlJPc2pKb0N6aHR0M1M4am94aFFFZ21WbldlQjU1UlBLbjctY19EcDY3UVNkM2cyMGlkMHJPU1ltc3NGbjV0TDFpWGRPZFhtbUtOMmpjOVg4S1paTUN0WS10aGxaTVl1Qllxb0tiN2tPaXJ4SFc0bTFhT1dNZER2Q3hMMDdaRGNsamxGclRaN093TU1FU01wY2JOU3MzZlVGbEhiOW9kb1ZjQkYw?oc=5"
-    },
-    {
-      "date": "05 Nov 2026",
-      "category": "General Policy",
-      "title": "Delhi High Court Upholds Nil Award In ₹4.37 Cr. NHAI Contract, Says Claims Of Extra Work Needs Proof - LiveLawBiz",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSDZVM0JNZmsyV3c3dDdFZGRQc3VUbWExeTNZOFh0bmc4QkJIS3BOd3k5WC14UGVKaDlURG9Ib1F1WXpkNGNJNzR6a2dYNVMxc3lrNUtDbzJTSjZpT3NXVHRvMFhDQVJoenY2MVZOV0RFaU5HdUh3aEhROGRHQ1pTWUZ6OUtNVjZkWlBmZ0wwMXBlUHZuQ2xtYXFjQ0Vndlc5NGdsT1lwLWo1MmRJOGdJQ3FIMTI4WEV5SHpON3pOQkFuQzNjSkpEMm9mcXVQbVJhYmhOdHlqX1UtVUdfN0ctZ1hSOXNxSmVVa0lxLVdaLWVJVVVUd2fSAfsBQVVfeXFMT1FEbWo0ckRjbF9hQnNJc1VmV0FBUjV5QzEzT1k2c2hwcTl3b1VtN203RG5kQ1oxcmhocXZzR1Juejc4dHpfbXc5UU9rcEVwbFBsZUk1VDRvbGU0M0ZtNUVZR3RhTjVZSXBfY0RabEhhNmpWaHM3WWh3LXdDaHNlS1hYSzhSLXpKYVNBamNGbUNtQmtlcmdISElHVXFGQmdGa2JVeWVtNkxYS3c0WDU5TmVsenEtQkltbjFHX0NDdFpXRGM5dzgzUHhrWWJuXzhXRWdzYUg4eFRDZUFOUHhHTDc1SnRyNEtzUXZTMFBjMWFLZk56LVRFZGNqaVk?oc=5"
-    },
-    {
-      "date": "05 Nov 2026",
-      "category": "General Policy",
-      "title": "Highway Infrastructure Signs ₹24.46 Crore NHAI Contract; Shares Rise 0.44% - HDFC Sky",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObzJYd2JjSUZORk9LOF8yQTFtT01qcTRfYV90STc2cmx4OEtBc051N1lSeF9YbGhvWEJyQlB5LUs0QUU3UlRXR21jemVZRGFmWGZWT3VWQjFWNTRJb2JlektBczhnYlNjMHAxYlVJaktlSEJzN0R1SHdiN3ZDcTZiVEhPVFhLVDdLdzB6eEYyLVhVeXFqYlI0RFdIMmlxczhmVWYwZmI5eFNPUUU?oc=5"
-    },
-    {
-      "date": "04 Nov 2026",
-      "category": "General Policy",
-      "title": "Waaree Renewable Technologies Secures Five-Year O&M Contract For 360 MWp Solar Project - SolarQuarter",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVQ1NVpRcTc5RXZHU0h5Y1hwOE0yS2QxWXU5WDF6M1hRY1RaVG5WQUx3OEF5U0Q0aEZzN0pYUGNBeG9GbVRqTlVPTWd0eENlNGpzSkIxbXJxRU56YWRMZHRiMGlPTV9uU2hUM1hHbDZoLXM4Z3lodlRrVER0TmdHdEFVVWdQd0pqNmdzZlQ0ZFVnYlh1SGZfQ2IwMjFUclFSVk03RHFXbDJIcmFLbVdURTFhUVJtMzI2eVJPYzBSTQ?oc=5"
-    },
-    {
-      "date": "04 Nov 2026",
-      "category": "General Policy",
-      "title": "Waaree Renewable Q2FY27 Results: Net profit falls 30% to ₹81.48 crore - scanx.trade",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHgwTWdiWXh5LTVXS193NDZSbWhralpQb0lzTUk2SjRTdUI4LXd2YzgtUkJrZGtfOThZWDJVT3JTNGZVVHp1aHYzeHkyblFzbExsN1Y1WEh2Vzd4eTRsbkZyZGM5blBEdEhCYWxhOENlNVdmNTFyajFtTTNwMVNOZW9keERISVIwSDhoZ3V6aEN1U2dzNUlvOTNJbFpna1hoRnpnNDRNdXZVZTBCdjAzZG4wbGYwUE9MX0VPcFdXM2Q4dw?oc=5"
-    },
-    {
-      "date": "04 Nov 2026",
-      "category": "General Policy",
-      "title": "India Committed To Global Solar Cooperation: Pralhad Joshi - Sarkaritel.com",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDEwdVBpNW9mWUxmNDh1a0Z2VGludkd6aW81YXA5RXNjd253YVExaGl6cGZ5NGRZa1pkR1ZhTDJOV1hDWVRYVWNwV3I4SmtCZEh1ZWJYTHNGbTF0X1dUV055QWpFWXNtRko1QmVOeDYwV2syOElyTTdEam96X2NqUUVB?oc=5"
-    },
-    {
-      "date": "04 Nov 2026",
-      "category": "General Policy",
-      "title": "India to host Bharat Renewable Energy Summit & Expo 2026 in New Delhi from November 2–5: Pralhad Joshi - DD News",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaElUZHpwakwzRjhTZEF2T3Q1ODhDdHlMRW9CZ2NqZ1pETmY3bWlNbEJuMnA4Z0ZoZWRlRmFVY2RlU2EyUTZWSGNGSWxFTC1adkNiNmFqOHV1WDdwV1hOOEdVN3hMbWZxdkdQejFrMk8wbFdXNTRSZENNQTA5X0NyV3hKelEtcjZaR1dtbTBpbzBWbnl5b2tGdENacjhleURfaTliYmpZY1o3ZzJoVHMwWFA1X2xhZlVHQ3dyaXI3VTN0aW8?oc=5"
-    },
-    {
-      "date": "04 Nov 2026",
-      "category": "General Policy",
-      "title": "India will not open dairy sector or allow GM imports, says Piyush Goyal - DD News",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0s3LXRNcE1aLXBQNVlBYllXN0dKQ2RzMFFYcWxfNzRMc3Y5NW1uc3oyNHhyeE9aOGFTNEFxT3hlZUQ2X1d4dHdPRS1mQ1l0WmhSbkN1MDFIcVdaaHlwRXJMV09teGY2SHFRcjFIelJ2bWVkWE1ialNBSkJiQWttbXFqbUljMWlpNEhpTk81WEVkZ1hSZi0tOGs0cks?oc=5"
-    },
-    {
-      "date": "04 Nov 2026",
-      "category": "General Policy",
-      "title": "India will not allow GM products or non-vegetarian dairy imports, says Piyush Goyal - thepamphlet.in",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmhvbHduSmpBMUlfNTZUTEJvRGRDa1ZnX1dYVW5IZF9rRHpZc3NoLVhoS1JpMkx1SnRxdDFHX3B1VG05V2lfOFZ5REZSeVA2UHJJYjJfa3RUekh0czAzUHFCOTliNkdLR2VQTFRJckU1bTE3V3U2bmtMSVp4bFRhTUhWcjk1QzhVZW1EbFU1RzVkMnFxOXVlcHp0em9PUGZCSWxVRjZ3NzZzdw?oc=5"
-    },
-    {
-      "date": "04 Nov 2026",
-      "category": "General Policy",
-      "title": "Dairy sector, GM imports off FTA table: Union minister Piyush Goyal - The Tribune",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWN3cFM1cUF0ZkVWT0x0VzgyUTRuSmdRZ2I3ek9rMVVTX3lUWnFsVURyLXN0SGJxUm9LV1Y3eU9iRmhIdjB6UDBrNVhqRmRHSzB1SS1uQWRMZlRMWmFZVEw2Z0VJeUNMOFdzUDVkdnFIcXJsdm5oNGJydzBEUDVTb3pPb3F5OW41STZ0etIBkAFBVV95cUxNZ0FUdmMxSnZxdTAwcXBWQmFiVVdYNUF6RFlQNzBqR1BnQWlaUWQ5aVNKMzA3U2lndTc5MFVQQVVpMUxZdGtYZmhsYnlQMHJtd2NMU1NfeHNlUU9IOVktUzFSRGFuaWdHXzZPN1l4bUMxWEtLMmtjNW8xOXhqZnA5VUpVc0RtbElRTlRPN2FEOEs?oc=5"
     }
   ]
 }
