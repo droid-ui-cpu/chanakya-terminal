@@ -640,6 +640,41 @@
   ],
   "signals": [
     {
+      "date": "25 Nov 2026",
+      "category": "General Policy",
+      "title": "MNRE invites discom proposals for DERMS pilots - Renewable Watch",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmJMdTFsRXE1WmtJTXA3d0V3c1pMMzRob3ZscUFwSkxTdFFRMWZYUFZELUtZR3RPQWZKWVZYSm01cm85M1poT3J0bkxYTlZ3SlM3NUp3WFpiYkpoLVZJWUhSeWdrS2dxa1lXY0w2RExYWnotRjZUZEozUk1QZ2JDamJCOVVROEx3QzVTc25xOA?oc=5"
+    },
+    {
+      "date": "25 Nov 2026",
+      "category": "General Policy",
+      "title": "BEL Share Price Target 2027: What Brokerages Say - Univest",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: BEL",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [
+        "BEL"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHQTlTeDlwRkM5a1ZlXzZUNDhFTk05QWFhLTFVSVRubW5lU0ZfMjIyTmIzOVZucGsxUjg5X1N5SXBsVkxNc0pGdmlKRnJWRjBRUXMxTlV3?oc=5"
+    },
+    {
+      "date": "25 Nov 2026",
+      "category": "General Policy",
+      "title": "EMS Wins Rs. 139.6 mn NHAI Fee Plaza Contract in Assam - Construction World",
+      "minister": "Union Executive / Regulatory Body",
+      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
+      "stage": "STAGE 1",
+      "badge": "badge-cyan",
+      "dynamic_tickers": [],
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1hUMVlBeUNhR01VdUtYOWJ6bHRHenQ3Skl4M3NmNEtwcG9lSHlNSFVYSDBBYU1vNDNkZUhGaGFNMU1IRjY4UFAwWFBlbzNQR2FJbkhfUEZkYlEzQ012NHNQRGJvZWJqakRjZFlCbG15Qy02OUh5U2h0MXpiQXM4S3A0bzhMOGw4WlQwRVVDdVNPdzBmUXVGZEZuYmY1MV8wdzZ5bXJvWmdnV195a0lFazdPdWk2cTNBNFJQTmxidnR0Snh0TXdrZndxSmY1WHItVzB5OHVWMHBwUUROUWJkb1hXVWRfb2VO?oc=5"
+    },
+    {
       "date": "24 Nov 2026",
       "category": "Visit / Inauguration",
       "title": "Union Minister Shri Ashwini Vaishnaw Inaugurates New FM Transmitter Centre in Udupi - www.pib.gov.in",
@@ -1792,41 +1827,6 @@
         "WAAREE"
       ],
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVW0yT21QVnhaVlJRalpnT3F0VEJtYWRQT2RhM0Y0YlFlUnA4dngtY3oxUWJmN21KT25aMHV0NUJyOXpzVWVHYkdINFNpT1RZclVPVXN3cjdsRVdRaXQyaHBVbjhGNEJ5bmJ6NG1VQTI2LVFROFdBc3VrWjREWTJJNkJmNlIzNE96Qk9zN2lXMFNfb2ZOekNoRE45bmx2cm1PdUZtNXRNTTJNREQzeFJBSTFxT24zRXU5dFQ4YmxEUkhHSUhCWUd5NW9RXy12aEhFa2pHSDFCeWU3MVhpNnVFQ3lmcXItWnh4d2t2aE5Fb0xaa3lDZ2E0b0NqTQ?oc=5"
-    },
-    {
-      "date": "06 Nov 2026",
-      "category": "General Policy",
-      "title": "BRE Summit & Expo 2026 reinforces India’s global renewable energy role: Pralhad Joshi - DD News",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcHNNbExNeXJ2YURPYnh3ek94b19DTFh6Rlg4VjlkQVpXWHVQVlV0Nm9UdkFuVmxRXy16NVF6cU5PTVpsVDM4cVJGTGcyZXA5bmpCTm5uTU9vdDJqbFh1TmRNSHRHRjc0TzJUZERabm5ORjRLLTM5RV9BVGpPZ2FKUkd6VXMyQ1R5WTg3UWtRTXlzSmVjQVNycElPUlFpejcyVDlfd1pyMXFtbE0?oc=5"
-    },
-    {
-      "date": "06 Nov 2026",
-      "category": "General Policy",
-      "title": "Waaree Renewabl Consolidated September 2026 Net Sales at Rs 1,057.84 crore, up 36.53% Y-o-Y - Moneycontrol.com",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: WAAREE",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [
-        "WAAREE"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMVU0TDJzYjJNWE1aZ3ZIQzlZYnA3YVdQTnBBYklqbHJTazk2dmthT2FkaVBQaFlrcW42Qk5ubzRFXzJqV1RWRlRkMjRHS1d1VnpYTFg1d1g3V0p3elA5V0R0eHlXOWRpeEFiUFNiV1Z1ZW5FdmlLOFlRX0N1YURoVURfSXd5aEIyS0ZCTWc0MVlnT1BNS2Y2N3VHZlhMSllXSWlUYUk5eDY5Si1Xb08wektGU3RxelpZWmhPUVFiOUxyeDlPS1F4NWVIOUJsRkkwaV91LXlYblJyUDhqUDhHOEx6S2ZQdjdNQ2fSAe8BQVVfeXFMT0E1UnlaQkdLQURqZGRjSTRXR0otS2tMWW5YQl9ScEkzM1ZvRUNLUGs3WTMzWWxDVFNWVTZ6U25Ybm0za0ZxVFRFY3NXSUNfSl9lLUNsMHZHZjhldXNJQk9idzd4YzZlYnJPMG5rNzR2ZTVJUDM5Y3NjRnplcnFwUmJRczFqUGotam1XbDZ3VkM1TTcza0RPTVVtdWZnNHRvVDN4dV9Iam5QMUtXM0w0aXBzbldPQkItMTR4ZVN4X1oxU19NcjJBSFp0QUxrTU5oQ01HZF83a1FrWXRVVnA3WnRBcmtMd2xuWDFQUjlkekE?oc=5"
-    },
-    {
-      "date": "06 Nov 2026",
-      "category": "General Policy",
-      "title": "Brahmaputra Infrastructure Limited wins Rs 16.06 crore NHAI award - Multibagg AI",
-      "minister": "Union Executive / Regulatory Body",
-      "impact": "Dynamic alert flagged. Sensitive tickers: Cross-reference sector exposure",
-      "stage": "STAGE 1",
-      "badge": "badge-cyan",
-      "dynamic_tickers": [],
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUJoZmdxQnZuMGVRTW5WU3lMSUtnSm1PbWZHZm5BbDJ5NU44X0lQLTVaQWJrQkdOZFNoU04tMkY0Mk1nVDlCU3VnWFVpMUJvZUJmbmJBRzZ3aFlhVnBiQUU2bjdoUjFxWGo3Mm1RbGdnYUloMElMc285bERYdmxvYWJnZXUxaVB3dnhFUlJfY2ZIelVIUmhXLVhUUkFLR3NUZ1l5elFuTHlOTG1XR19hOUVOMlVONVNqdHlGaGdLQjlnWmJic1ZKeTZaaw?oc=5"
     }
   ]
 }
